@@ -5,29 +5,21 @@
 --------------------
 ## Hot Items
 **[`^        back to top        ^`](# Radio-Resources)**
-Recommended Configuration Settings
-Link or snip/screenshot for Discord
-Copy/paste looks ugly
-Source (mtnmesh.github.io); explanations
- -Personal Mobile Nodes
- --Radio & LoRa
-  ---Region
- ---US
- ---Device Role
- ---CLIENT or CLIENT_MUTE
- ---Modem Preset
- ---MEDIUM_FAST
- ---Frequency Slot
- ---45
- ---NodeInfo Interval
- ---10800 (3 hours)
---- Hop Limit-
---- 5
---- Ignore MQTT
---- True
----OK to MQTT
----True
---Position & Telemetry
+
+## Recommended Meshtastic Configuration Settings
+Link or snip/screenshot for Discord; copy/paste looks ugly
+[Source] (mtnmesh.github.io); provides explanations
+ - Personal Mobile Nodes
+ -- Radio & LoRa
+ --- Region: US
+ --- Device Role: CLIENT or CLIENT_MUTE
+ --- Modem Preset: MEDIUM_FAST
+ --- Frequency Slot: 45
+ --- NodeInfo Interval: 10800 (3 hours)
+---  Hop Limit: 5
+---  Ignore MQTT: True
+--- OK to MQTT: True
+-- Position & Telemetry
 Smart Position
 True
 Broadcast Interval
