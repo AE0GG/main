@@ -11,7 +11,7 @@ Copy/paste looks ugly
 Source (mtnmesh.github.io); explanations
  -Personal Mobile Nodes
  --Radio & LoRa
- ---Region
+  ---Region
  ---US
  ---Device Role
  ---CLIENT or CLIENT_MUTE
