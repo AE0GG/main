@@ -138,7 +138,7 @@ Meshtastic
 -Reddit
 -Initial Setup (soon)
 
-- Online Stores
+## Online Stores
 - Amazon (Meshtastic search)
 - Atlavox (expensive)
 - eBay (Meshtastic search)
