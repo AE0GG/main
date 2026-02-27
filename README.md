@@ -137,36 +137,44 @@ Meshtastic
 -Map
 -Reddit
 -Initial Setup (soon)
--Online Stores
--Amazon (Meshtastic search)
--Atlavox (expensive)
--eBay (Meshtastic search)
--LilyGo
--MeshCore
--muzi.works
--RAKwireless
--Rokland
--Seeed Studio
--SpecFive (expensive)
--Radio Tools
--Line-of-Sight Visualization
+
+- Online Stores
+- Amazon (Meshtastic search)
+- Atlavox (expensive)
+- eBay (Meshtastic search)
+- LilyGo
+- MeshCore
+- muzi.works
+- RAKwireless
+- Rokland
+- Seeed Studio
+- SpecFive (expensive)
+- Radio Tools
+- Line-of-Sight Visualization
+
 -Supporting Information
 -TBD: Antennas, planning, calculators, 
+
 -Desktop Software
 -MeshSense (Meshtastic)
 -Communities
+
 -Chattanooga Amateur Radio Club (CARC)
 -W4AM.net
+
 -Tri-States Amateur Radio Club (TSARC)
 -TriStatesARC.com
+
 -Ham Radio Crash Course
 -Amateur Radio YouTuber
 -Website
 -YouTube Channel
 -Discord
+
 -TNMesh
 -General Mesh, Greater Chattanooga, TN area
 -Discord
+
 -Mountain Mesh
 -General Mesh, North Georgia / East Tennessee area
 -Map
@@ -179,37 +187,14 @@ Meshtastic
 -Enable `Uplink` on public channels
 -https://view.mtnme.sh
 -https://malla.mtnme.sh
+
 -Nash Mesh
 -General Mesh, Nashville, TN
 -Map
 -Discord
+
 -TheCommsChannel
 -MeshCore, local Youtuber
 -Website
 -YouTube Channel
 -Discord
-
-# awesome-meshtastic
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-**A curated list of amazingly awesome Meshtastic resources**
-
-Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtastic.org/docs/legal/licensing-and-trademark/). Use in this repository is for reference only and does not imply sponsorship or endorsement by Meshtastic LLC.
-
-## How to Contribute? 
-* Option #1 - [File a PR](https://github.com/ShakataGaNai/awesome-meshtastic/pulls). 
-* Option #2 - [Create an issue](https://github.com/ShakataGaNai/awesome-meshtastic/issues)
-* Option #3 - Join the offical [Meshtastic Discord](https://discord.com/invite/ktMAKGBnBs) and post in the [Awesome Meshtastic project](https://discord.com/channels/867578229534359593/1246235089281749053)
-
---------------------
-
-## Table of contents
-
-- [Official Resources](#official-resources)
-- [Guides & Getting Started](#guides--getting-started)
-- [Maps and Diagnostics](#maps-and-diagnostics)
-- [Server Software](#server-software)
-- [Local Software](#local-software)
-- [Hacks and Projects](#hacks-and-projects)
-- [Hardware Stores](#hardware-stores)
-- [Communities](#communities)
