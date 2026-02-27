@@ -9,8 +9,8 @@
 ## Recommended Meshtastic Configuration Settings
 Link or snip/screenshot for Discord; copy/paste looks ugly
 [Source] (mtnmesh.github.io); provides explanations
- - Personal Mobile Nodes
 
+### Personal Mobile Nodes
 | Radio & LoRa | Value |
 | ------------ | ----- |
 | Region       | US    |
@@ -23,6 +23,7 @@ Link or snip/screenshot for Discord; copy/paste looks ugly
 | OK to MQTT | True |
 
 | Position & Telemetry | Value |
+| -------------------- | ----- |
 | Smart Position | True |
 | Broadcast Interval | 10800 (3 hours) |
 | Fixed Position | False |
