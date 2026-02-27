@@ -13,6 +13,12 @@ Link or snip/screenshot for Discord; copy/paste looks ugly
 | Radio & LoRa | Value |
 | ------------ | ----- |
 | Region       | US    |
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
  --- Device Role: CLIENT or CLIENT_MUTE
  --- Modem Preset: MEDIUM_FAST
  --- Frequency Slot: 45
