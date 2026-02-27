@@ -1,7 +1,10 @@
 # Radio Resources
 
 ## Table of contents
-Hot Items
+
+--------------------
+## Hot Items
+**[`^        back to top        ^`](# Radio Resources)**
 Recommended Configuration Settings
 Link or snip/screenshot for Discord
 Copy/paste looks ugly
