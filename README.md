@@ -10,6 +10,7 @@
 Link or snip/screenshot for Discord; copy/paste looks ugly
 [Source] (mtnmesh.github.io); provides explanations
  - Personal Mobile Nodes
+
 | Radio & LoRa | Value |
 | ------------ | ----- |
 | Region       | US    |
