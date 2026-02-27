@@ -139,18 +139,18 @@ Meshtastic
 -Initial Setup (soon)
 
 ## Online Stores
-- Amazon (Meshtastic search)
-- Atlavox (expensive)
-- eBay (Meshtastic search)
-- LilyGo
-- MeshCore
-- muzi.works
-- RAKwireless
-- Rokland
-- Seeed Studio
-- SpecFive (expensive)
-- Radio Tools
-- Line-of-Sight Visualization
+- [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
+- [Atlavox (expensive)](https://atlavox.com/)
+- [eBay (Meshtastic search)](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
+- [LilyGo](https://lilygo.cc/en-us/collections/lilygo-with-meshtastic)
+- [MeshCore](https://store.meshcore.co.uk/collections/all)
+- [muzi.works](https://muzi.works/collections/all)
+- [RAKwireless](https://store.rakwireless.com/collections/meshtastic)
+- [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
+- [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
+- [SpecFive (expensive)](https://specfive.com/collections/all)
+## Radio Tools
+- [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
 
 -Supporting Information
 -TBD: Antennas, planning, calculators, 
