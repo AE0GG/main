@@ -16,28 +16,20 @@ Link or snip/screenshot for Discord; copy/paste looks ugly
 | Region       | US    |
 | Device Role  | CLIENT or CLIENT_MUTE |
 | Modem Preset | MEDIUM_FAST |
-|  |  |
+| Frequency Slot | 45 |
+| NodeInfo Interval | 10800 (3 hours) |
+| Hop Limit | 5 |
+| Ignore MQTT | True |
+| OK to MQTT | True |
 
- --- Device Role: CLIENT or CLIENT_MUTE
- --- Modem Preset: MEDIUM_FAST
- --- Frequency Slot: 45
- --- NodeInfo Interval: 10800 (3 hours)
----  Hop Limit: 5
----  Ignore MQTT: True
---- OK to MQTT: True
--- Position & Telemetry
-Smart Position
-True
-Broadcast Interval
-10800 (3 hours)
-Fixed Position
-False
-Device Metrics
-Disabled
-Env. Metrics
-Disabled
+| Position & Telemetry | Value |
+| Smart Position | True |
+| Broadcast Interval | 10800 (3 hours) |
+| Fixed Position | False |
+| Device Metrics | Disabled |
+| Env. Metrics | Disabled |
 
-Personal/Local Infrastructure
+### Personal/Local Infrastructure
 Radio & LoRa
 Region
 US
