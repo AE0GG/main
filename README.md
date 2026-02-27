@@ -10,8 +10,9 @@
 Link or snip/screenshot for Discord; copy/paste looks ugly
 [Source] (mtnmesh.github.io); provides explanations
  - Personal Mobile Nodes
- -- Radio & LoRa
- --- Region: US
+  - | Radio & LoRa | Value |
+  - | ------------ | ----- |
+  - | Region       | US    |
  --- Device Role: CLIENT or CLIENT_MUTE
  --- Modem Preset: MEDIUM_FAST
  --- Frequency Slot: 45
