@@ -4,7 +4,7 @@
 
 --------------------
 ## Hot Items
-**[`^        back to top        ^`](# Radio Resources)**
+**[`^        back to top        ^`](# Radio-Resources)**
 Recommended Configuration Settings
 Link or snip/screenshot for Discord
 Copy/paste looks ugly
