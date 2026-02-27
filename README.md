@@ -188,3 +188,28 @@ Meshtastic
 -Website
 -YouTube Channel
 -Discord
+
+# awesome-meshtastic
+[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+**A curated list of amazingly awesome Meshtastic resources**
+
+Note: Meshtastic® is a registered trademark of [Meshtastic LLC](https://meshtastic.org/docs/legal/licensing-and-trademark/). Use in this repository is for reference only and does not imply sponsorship or endorsement by Meshtastic LLC.
+
+## How to Contribute? 
+* Option #1 - [File a PR](https://github.com/ShakataGaNai/awesome-meshtastic/pulls). 
+* Option #2 - [Create an issue](https://github.com/ShakataGaNai/awesome-meshtastic/issues)
+* Option #3 - Join the offical [Meshtastic Discord](https://discord.com/invite/ktMAKGBnBs) and post in the [Awesome Meshtastic project](https://discord.com/channels/867578229534359593/1246235089281749053)
+
+--------------------
+
+## Table of contents
+
+- [Official Resources](#official-resources)
+- [Guides & Getting Started](#guides--getting-started)
+- [Maps and Diagnostics](#maps-and-diagnostics)
+- [Server Software](#server-software)
+- [Local Software](#local-software)
+- [Hacks and Projects](#hacks-and-projects)
+- [Hardware Stores](#hardware-stores)
+- [Communities](#communities)
