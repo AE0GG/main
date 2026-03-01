@@ -8,6 +8,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 --------------------
 - Links to be added...
 --------------------
+<br/>
 
 ## Recommended Meshtastic Configuration Settings <sub>[back to top](#top)</sub>
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
@@ -50,6 +51,8 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 | Hop Limit | 3 |
 | Ignore MQTT | True |
 | OK to MQTT | True |
+<br/>
+<br/>
 
 ## Upcoming Events <sub>[back to top](#top)</sub>
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
@@ -89,6 +92,9 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Map](https://meshcore.co.uk/map.html)
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
+<br/>
+<br/>
+<br/>
 
 ## Online Stores <sub>[back to top](#top)</sub>
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
