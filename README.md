@@ -185,7 +185,7 @@ Meshtastic
 - [Discord](https://discord.gg/5PFqMD62TF)
 
 ## TheCommsChannel
-- *MeshCore, local Youtuber*
+*MeshCore, local Youtuber*
 - [Website](https://www.thecommschannel.com/)
 - [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
 - [Discord](https://discord.gg/pVsRh9FEme)
