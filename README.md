@@ -60,7 +60,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
 
-### Radio Tools <sub>[back to top](#top)</sub>
+### Radio Tools
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
 
 -Supporting Information
