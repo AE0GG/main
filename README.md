@@ -5,7 +5,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 <br/>
 
-##### Table of contents
+## Table of contents
 - [Upcoming Events](#Upcoming-Events)
 - [Links](#Links)
   - [Maps](#Maps)
