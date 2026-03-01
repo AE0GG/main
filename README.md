@@ -173,10 +173,10 @@ Meshtastic
 - [Metrics](https://malla.mtnme.sh)
 - [Discord](https://discord.gg/fddwJHN6jf)
 - MQTT Settings
-  - Server:    \t mqtt.mtnme.sh
-  - Username:  \t meshdev
-  - Password:  large4cats
-  - Topic:     mtnme.sh/GA OR mtnme.sh/TN 
+  - Server:   mqtt.mtnme.sh
+  - Username: meshdev
+  - Password: large4cats
+  - Topic:    mtnme.sh/GA OR mtnme.sh/TN 
   - Enable `Uplink` on public channels
 
 ## Nash Mesh
