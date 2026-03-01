@@ -24,8 +24,9 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 | Hop Limit | 5 |
 | Ignore MQTT | True |
 | OK to MQTT | True |
-<sub>[back to top](#top)</sub>
+
 ### Personal/Local Infrastructure
+<sub>[back to top](#top)</sub>
 | Radio & LoRa | Value | Position & Telemetry | Value |
 | ------------ | ----- | -------------------- | ----- |
 | Region | US | Smart Position | False |
@@ -37,7 +38,6 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 | Hop Limit | 3 |
 | Ignore MQTT | True |
 | OK to MQTT | True |
-<sub>[back to top](#top)</sub>
 
 ### Coordinated Public Infrastructure
 | Radio & LoRa | Value | Position & Telemetry | Value |
