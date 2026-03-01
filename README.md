@@ -96,9 +96,9 @@ A collection of licensed and unlicensed radio links and information. This page w
 <a name="Radio-Tools"></a>
 ### Radio Tools
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
+- [MeshSense](https://affirmatech.com/meshsense) Desktop Software (Meshtastic)
 - Calculators (Antennas, etc.)
 - Site Planning
-- [MeshSense](https://affirmatech.com/meshsense) Desktop Software (Meshtastic)
 
 <br/>
 
