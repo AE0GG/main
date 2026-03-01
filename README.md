@@ -7,8 +7,8 @@
 **[`^        back to top        ^`](# Radio-Resources)**
 
 ## Recommended Meshtastic Configuration Settings
-Link or snip/screenshot for Discord; copy/paste looks ugly
-[Source] (mtnmesh.github.io); provides explanations
+**NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly
+[Source](mtnmesh.github.io); provides explanations
 
 ### Personal Mobile Nodes
 | Radio & LoRa | Value | Position & Telemetry | Value |
@@ -48,27 +48,30 @@ Link or snip/screenshot for Discord; copy/paste looks ugly
 | Ignore MQTT | True |
 | OK to MQTT | True |
 
-Upcoming Events
-Saturday, February 28th, 2026	Dalton Hamfest
-Quick Links
-Maps
-MeshMap (Meshtastic)
-Meshtastic Map by Liam Cottle
-Mountain Mesh Map
-MeshSense Map
-MeshCore Map
-Reticulum Map
-SpecFive Map
-Meshtastic
--Official Website
--Web Flasher
--Web Client
--Web Client (TEST)
--MeshMap
--Map created by Liam Cottle
--Official Discord
--Discover Local Groups
--Reddit
+## Upcoming Events
+- ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
+
+## Quick Links
+
+### Maps
+[MeshMap (Meshtastic)](https://meshmap.net/)
+[Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
+[Mountain Mesh Map](https://view.mtnme.sh/map)
+[MeshSense Map](https://meshsense.affirmatech.com/)
+[MeshCore Map](https://meshcore.co.uk/map.html)
+[Reticulum Map](https://rmap.world/)
+[SpecFive Map](https://specfive.com/pages/meshmap)
+
+### Meshtastic
+[Official Website](https://meshtastic.org/)
+[Web Flasher](https://flasher.meshtastic.org/)
+[Web Client](https://client.meshtastic.org/)
+[Web Client (TEST)](https://client-test.meshtastic.org/)
+[MeshMap](https://meshmap.net/)
+[Map created by Liam Cottle](https://meshtastic.liamcottle.net/)
+[Official Discord](https://discord.gg/pVsRh9FEme)
+[Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
+[Reddit](https://www.reddit.com/r/meshtastic/)
 -MQTT Settings
 --Server: mqtt.meshtastic.org
 --Username: meshdev
