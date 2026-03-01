@@ -115,4 +115,4 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 <br/>
 <br/>
 
-[Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
+Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
