@@ -22,45 +22,25 @@ Link or snip/screenshot for Discord; copy/paste looks ugly
 | Ignore MQTT | True |
 | OK to MQTT | True |
 
-
-
-
-
-
-
-
-
 ### Personal/Local Infrastructure
-Radio & LoRa
-Region
-US
-Device Role
-CLIENT or CLIENT_BASE
-Is Unmessagable
-TRUE
-Modem Preset
-MEDIUM_FAST
-Frequency Slot
-45
-NodeInfo Interval
-21600 (6 hours)
-Hop Limit
-3
-Ignore MQTT
-True
-OK to MQTT
-True
-Position & Telemetry
-Smart Position
-False
-Broadcast Interval
-21600 (6 hours)
-Fixed Position
-True (set coordinates
-Device Metrics
-10800 (3 hours)
-Env. Metrics
-10800 (3 hours)
+| Radio & LoRa | Value | Position & Telemetry | Value |
+| ------------ | ----- | -------------------- | ----- |
+| Region | US | Smart Position | False |
+| Device Role | CLIENT or CLIENT_BASE | Broadcast Interval | 21600 (6 hours) |
+| Is Unmessagable | TRUE | Fixed Position | True (set coordinates |
+| Modem Preset | MEDIUM_FAST | Device Metrics | 10800 (3 hours) |
+| Frequency Slot | 45 | Env. Metrics | 10800 (3 hours) |
+| NodeInfo Interval | 21600 (6 hours) |
+| Hop Limit | 3 |
+| Ignore MQTT | True |
+| OK to MQTT | True |
+
+
+
+
+
+
+
 
 Coordinated Public Infrastructure
 Radio & LoRa
