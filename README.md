@@ -73,9 +73,9 @@
 - [Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
 - [Reddit](https://www.reddit.com/r/meshtastic/)
 - MQTT Settings
-  - Server: mqtt.meshtastic.org
-  - Username: meshdev
-  - Password: large4cats
+  - Server: `mqtt.meshtastic.org`
+  - Username: `meshdev`
+  - Password: `large4cats`
   - Enable `Uplink` on public channels
 
 ### MeshCore
