@@ -10,7 +10,6 @@ Links to be added...
 --------------------
 
 ## Recommended Meshtastic Configuration Settings
-<sub>[back to top](#top)</sub>
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
 [Source](mtnmesh.github.io)
 
