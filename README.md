@@ -27,14 +27,11 @@ A collection of licensed and unlicensed radio links and information. This page w
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
 
 <br/>
-<br/>
 
 --------------------
 
 <a name="Links"></a>
 ## Links <sup>[top](#top)</sup>
-
-<br/>
 
 <a name="Maps"></a>
 ### Maps
@@ -45,8 +42,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [MeshCore Map](https://meshcore.co.uk/map.html)
 - [Reticulum Map](https://rmap.world/)
 - [SpecFive Map](https://specfive.com/pages/meshmap)
-
-<br/>
 
 <a name="Meshtastic"></a>
 ### Meshtastic
@@ -66,8 +61,6 @@ A collection of licensed and unlicensed radio links and information. This page w
   - Password: `large4cats`
   - Enable `Uplink` on public channels
 
-<br/>
-
 <a name="MeshCore"></a>
 ### MeshCore
 - [Official Website](https://meshcore.nz/)
@@ -77,8 +70,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Map](https://meshcore.co.uk/map.html)
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
-
-<br/>
 
 <a name="Mesh-Stores"></a>
 ### Mesh Stores
@@ -93,8 +84,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
 
-<br/>
-
 <a name="Radio-Tools"></a>
 ### Radio Tools
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
@@ -102,7 +91,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - Site Planning
 - [MeshSense](https://affirmatech.com/meshsense) Desktop Software (Meshtastic)
 
-<br/>
 <br/>
 
 --------------------
@@ -114,13 +102,9 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### Chattanooga Amateur Radio Club (CARC)
 - [W4AM.net](http://W4AM.net)
 
-<br/>
-
 <a name="Tri-StatesARC"></a>
 ### Tri-States Amateur Radio Club (TSARC)
 - [TriStatesARC.com](http://tristatesarc.com)
-
-<br/>
 
 <a name="Ham-Radio-Crash-Course"></a>
 ### Ham Radio Crash Course
@@ -129,14 +113,10 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [YouTube Channel](https://www.youtube.com/@HamRadioCrashCourse)
 - [Discord](https://discord.gg/X6H8Z9AmNg)
 
-<br/>
-
 <a name="TNMesh"></a>
 ### TNMesh
 *General Mesh, Greater Chattanooga, TN area*
 - [Discord](https://discord.gg/ZjY8dTbeGn)
-
-<br/>
 
 <a name="Mountain-Mesh"></a>
 ### Mountain Mesh
@@ -152,15 +132,11 @@ A collection of licensed and unlicensed radio links and information. This page w
   - Topic:    `mtnme.sh/GA` OR `mtnme.sh/TN `
   - Enable `Uplink` on public channels
 
-<br/>
-
 <a name="Nash-Mesh"></a>
 ### Nash Mesh
 *General Mesh, Nashville, TN*
 - [Map](https://potato.tnmesh.org/)
 - [Discord](https://discord.gg/5PFqMD62TF)
-
-<br/>
 
 <a name="TheCommsChannel"></a>
 ### TheCommsChannel
