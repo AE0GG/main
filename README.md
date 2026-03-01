@@ -1,7 +1,7 @@
 [Provide Feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
 
-# PuNk Repo
-<sup> Public-use Nick-knowledge Repository</sup>
+# PuNk
+<sup> Public-use Nick-knowledge</sup>
 <a name="top"></a>
 ## Table of contents
 
