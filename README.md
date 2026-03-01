@@ -1,6 +1,6 @@
 # AE0GG's PuNk
 ## Public-use Nick-knowledge
-A collection of licensed and unlicensed radio links, configurations, and more. This page was created to help others with frequently requested information, and information I believe is helpful. This is a work-in-progress, and [suggestions are welcome here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you.
+A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information. This is a work-in-progress; [suggestions welcome here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you.
 <a name="top"></a>
 
 --------------------
