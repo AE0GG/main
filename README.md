@@ -11,24 +11,24 @@ Link or snip/screenshot for Discord; copy/paste looks ugly
 [Source] (mtnmesh.github.io); provides explanations
 
 ### Personal Mobile Nodes
-| Radio & LoRa | Value |
-| ------------ | ----- |
-| Region       | US    |
-| Device Role  | CLIENT or CLIENT_MUTE |
-| Modem Preset | MEDIUM_FAST |
-| Frequency Slot | 45 |
-| NodeInfo Interval | 10800 (3 hours) |
+| Radio & LoRa | Value | | Position & Telemetry | Value |
+| ------------ | ----- | | -------------------- | ----- |
+| Region       | US    || Smart Position | True |
+| Device Role  | CLIENT or CLIENT_MUTE || Broadcast Interval | 10800 (3 hours) |
+| Modem Preset | MEDIUM_FAST || Fixed Position | False |
+| Frequency Slot | 45 || Device Metrics | Disabled |
+| NodeInfo Interval | 10800 (3 hours) || Env. Metrics | Disabled |
 | Hop Limit | 5 |
 | Ignore MQTT | True |
 | OK to MQTT | True |
 
-| Position & Telemetry | Value |
-| -------------------- | ----- |
-| Smart Position | True |
-| Broadcast Interval | 10800 (3 hours) |
-| Fixed Position | False |
-| Device Metrics | Disabled |
-| Env. Metrics | Disabled |
+
+
+
+
+
+
+
 
 ### Personal/Local Infrastructure
 Radio & LoRa
