@@ -54,37 +54,38 @@
 ## Quick Links
 
 ### Maps
-[MeshMap (Meshtastic)](https://meshmap.net/)
-[Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
-[Mountain Mesh Map](https://view.mtnme.sh/map)
-[MeshSense Map](https://meshsense.affirmatech.com/)
-[MeshCore Map](https://meshcore.co.uk/map.html)
-[Reticulum Map](https://rmap.world/)
-[SpecFive Map](https://specfive.com/pages/meshmap)
+- [MeshMap (Meshtastic)](https://meshmap.net/)
+- [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
+- [Mountain Mesh Map](https://view.mtnme.sh/map)
+- [MeshSense Map](https://meshsense.affirmatech.com/)
+- [MeshCore Map](https://meshcore.co.uk/map.html)
+- [Reticulum Map](https://rmap.world/)
+- [SpecFive Map](https://specfive.com/pages/meshmap)
 
 ### Meshtastic
-[Official Website](https://meshtastic.org/)
-[Web Flasher](https://flasher.meshtastic.org/)
-[Web Client](https://client.meshtastic.org/)
-[Web Client (TEST)](https://client-test.meshtastic.org/)
-[MeshMap](https://meshmap.net/)
-[Map created by Liam Cottle](https://meshtastic.liamcottle.net/)
-[Official Discord](https://discord.gg/pVsRh9FEme)
-[Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
-[Reddit](https://www.reddit.com/r/meshtastic/)
--MQTT Settings
---Server: mqtt.meshtastic.org
---Username: meshdev
---Password: large4cats
---Enable `Uplink` on public channels
--MeshCore
--Official Website
--Web Flasher
--Web Client
--Web Client by Liam Cottle
--Map
--Reddit
--Initial Setup (soon)
+- [Official Website](https://meshtastic.org/)
+- [Web Flasher](https://flasher.meshtastic.org/)
+- [Web Client](https://client.meshtastic.org/)
+- [Web Client (TEST)](https://client-test.meshtastic.org/)
+- [MeshMap](https://meshmap.net/)
+- [Map created by Liam Cottle](https://meshtastic.liamcottle.net/)
+- [Official Discord](https://discord.gg/pVsRh9FEme)
+- [Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
+- [Reddit](https://www.reddit.com/r/meshtastic/)
+#### MQTT Settings
+- Server: mqtt.meshtastic.org
+- Username: meshdev
+- Password: large4cats
+- Enable `Uplink` on public channels
+
+### MeshCore
+- [Official Website](https://meshcore.nz/)
+- [Web Flasher](https://flasher.meshcore.co.uk/)
+- [Web Client](https://app.meshcore.nz/)
+- [Web Client by Liam Cottle](https://meshcore.liamcottle.net/)
+- [Map](https://meshcore.co.uk/map.html)
+- [Reddit](https://www.reddit.com/r/meshcore/)
+- [Initial Setup (soon)]()
 
 ## Online Stores
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
