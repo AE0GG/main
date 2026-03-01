@@ -1,7 +1,6 @@
-[Provide Feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
-
 # PuNk
 Public-use Nick-knowledge
+A collection of licensed and unlicensed radio information, configurations, links, and more. This is a work-in-progress, and [suggestions are welcome here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you.
 <a name="top"></a>
 ## Table of contents
 
