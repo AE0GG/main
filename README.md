@@ -113,7 +113,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 
 ## Recommended Meshtastic Configuration Settings <sup>[top](#top)</sup>
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
-[Source](mtnmesh.github.io)
+[Source](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
 
 ### Personal Mobile Nodes
 | Radio & LoRa | Value | Position & Telemetry | Value |
