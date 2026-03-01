@@ -25,8 +25,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 | Ignore MQTT | True |
 | OK to MQTT | True |
 
-### Personal/Local Infrastructure
-<sub>[back to top](#top)</sub>
+### Personal/Local Infrastructure <sub>[back to top](#top)</sub>
 | Radio & LoRa | Value | Position & Telemetry | Value |
 | ------------ | ----- | -------------------- | ----- |
 | Region | US | Smart Position | False |
