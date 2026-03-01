@@ -8,7 +8,7 @@
 
 ## Recommended Meshtastic Configuration Settings
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly
-[Source](mtnmesh.github.io); provides explanations
+#### [Source](mtnmesh.github.io); provides explanations
 
 ### Personal Mobile Nodes
 | Radio & LoRa | Value | Position & Telemetry | Value |
