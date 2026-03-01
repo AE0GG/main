@@ -8,56 +8,11 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 --------------------
 - Links to be added...
 --------------------
-<br/>
-
-## Recommended Meshtastic Configuration Settings <sub>[back to top](#top)</sub>
-**NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
-[Source](mtnmesh.github.io)
-
-### Personal Mobile Nodes
-| Radio & LoRa | Value | Position & Telemetry | Value |
-| ------------ | ----- | -------------------- | ----- |
-| Region       | US    | Smart Position | True |
-| Device Role  | CLIENT or CLIENT_MUTE | Broadcast Interval | 10800 (3 hours) |
-| Modem Preset | MEDIUM_FAST | Fixed Position | False |
-| Frequency Slot | 45 | Device Metrics | Disabled |
-| NodeInfo Interval | 10800 (3 hours) | Env. Metrics | Disabled |
-| Hop Limit | 5 |
-| Ignore MQTT | True |
-| OK to MQTT | True |
-
-### Personal/Local Infrastructure
-| Radio & LoRa | Value | Position & Telemetry | Value |
-| ------------ | ----- | -------------------- | ----- |
-| Region | US | Smart Position | False |
-| Device Role | CLIENT or CLIENT_BASE | Broadcast Interval | 21600 (6 hours) |
-| Is Unmessagable | TRUE | Fixed Position | True (set coordinates |
-| Modem Preset | MEDIUM_FAST | Device Metrics | 10800 (3 hours) |
-| Frequency Slot | 45 | Env. Metrics | 10800 (3 hours) |
-| NodeInfo Interval | 21600 (6 hours) |
-| Hop Limit | 3 |
-| Ignore MQTT | True |
-| OK to MQTT | True |
-
-### Coordinated Public Infrastructure
-| Radio & LoRa | Value | Position & Telemetry | Value |
-| ------------ | ----- | -------------------- | ----- |
-| Region | US | Smart Position | False |
-| Device Role | ROUTER_LATE | Broadcast Interval | 21600 (6 hours) |
-| Modem Preset | MEDIUM_FAST | Fixed Position | True (set coordinates) |
-| Frequency Slot | 45 | Device Metrics | 10800 (3 hours) |
-| NodeInfo Interval | 21600 (6 hours) | Env. Metrics | 10800 (3 hours) |
-| Rebroadcast Mode | CORE_PORTNUMS_ONLY |
-| Hop Limit | 3 |
-| Ignore MQTT | True |
-| OK to MQTT | True |
-<br/>
-<br/>
 
 ## Upcoming Events <sub>[back to top](#top)</sub>
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
 
-## Quick Links <sub>[back to top](#top)</sub>
+## Links <sub>[back to top](#top)</sub>
 
 ### Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
@@ -92,11 +47,8 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Map](https://meshcore.co.uk/map.html)
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
-<br/>
-<br/>
-<br/>
 
-## Online Stores <sub>[back to top](#top)</sub>
+### Online Stores for Mesh Devices <sup>[back to top](#top)</sup>
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
 - [eBay (Meshtastic search)](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
@@ -108,7 +60,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
 
-## Radio Tools <sub>[back to top](#top)</sub>
+### Radio Tools <sub>[back to top](#top)</sub>
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
 
 -Supporting Information
@@ -158,3 +110,45 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Website](https://www.thecommschannel.com/)
 - [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
 - [Discord](https://discord.gg/pVsRh9FEme)
+
+## Recommended Meshtastic Configuration Settings <sub>[back to top](#top)</sub>
+**NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
+[Source](mtnmesh.github.io)
+
+### Personal Mobile Nodes
+| Radio & LoRa | Value | Position & Telemetry | Value |
+| ------------ | ----- | -------------------- | ----- |
+| Region       | US    | Smart Position | True |
+| Device Role  | CLIENT or CLIENT_MUTE | Broadcast Interval | 10800 (3 hours) |
+| Modem Preset | MEDIUM_FAST | Fixed Position | False |
+| Frequency Slot | 45 | Device Metrics | Disabled |
+| NodeInfo Interval | 10800 (3 hours) | Env. Metrics | Disabled |
+| Hop Limit | 5 |
+| Ignore MQTT | True |
+| OK to MQTT | True |
+
+### Personal/Local Infrastructure
+| Radio & LoRa | Value | Position & Telemetry | Value |
+| ------------ | ----- | -------------------- | ----- |
+| Region | US | Smart Position | False |
+| Device Role | CLIENT or CLIENT_BASE | Broadcast Interval | 21600 (6 hours) |
+| Is Unmessagable | TRUE | Fixed Position | True (set coordinates |
+| Modem Preset | MEDIUM_FAST | Device Metrics | 10800 (3 hours) |
+| Frequency Slot | 45 | Env. Metrics | 10800 (3 hours) |
+| NodeInfo Interval | 21600 (6 hours) |
+| Hop Limit | 3 |
+| Ignore MQTT | True |
+| OK to MQTT | True |
+
+### Coordinated Public Infrastructure
+| Radio & LoRa | Value | Position & Telemetry | Value |
+| ------------ | ----- | -------------------- | ----- |
+| Region | US | Smart Position | False |
+| Device Role | ROUTER_LATE | Broadcast Interval | 21600 (6 hours) |
+| Modem Preset | MEDIUM_FAST | Fixed Position | True (set coordinates) |
+| Frequency Slot | 45 | Device Metrics | 10800 (3 hours) |
+| NodeInfo Interval | 21600 (6 hours) | Env. Metrics | 10800 (3 hours) |
+| Rebroadcast Mode | CORE_PORTNUMS_ONLY |
+| Hop Limit | 3 |
+| Ignore MQTT | True |
+| OK to MQTT | True |
