@@ -1,7 +1,7 @@
 [Provide Feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
 
 # PuNk
-<sup> Public-use Nick-knowledge</sup>
+Public-use Nick-knowledge
 <a name="top"></a>
 ## Table of contents
 
