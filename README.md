@@ -6,7 +6,7 @@
 
 --------------------
 
-**[back to top](#top)**
+<sub>[back to top](#top)</sub>
 
 ## Recommended Meshtastic Configuration Settings
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
