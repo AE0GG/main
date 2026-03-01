@@ -158,17 +158,17 @@ Meshtastic
 - [TriStatesARC.com](http://tristatesarc.com)
 
 ## Ham Radio Crash Course
-- *Amateur Radio YouTuber*
+*Amateur Radio YouTuber*
 - [Website](https://hamradiocrashcourse.com/)
 - [YouTube Channel](https://www.youtube.com/@HamRadioCrashCourse)
 - [Discord](https://discord.gg/X6H8Z9AmNg)
 
 ## TNMesh
-- General Mesh, Greater Chattanooga, TN area
+*General Mesh, Greater Chattanooga, TN area*
 - [Discord](https://discord.gg/ZjY8dTbeGn)
 
 ## Mountain Mesh
-- *General Mesh, North Georgia / East Tennessee area*
+*General Mesh, North Georgia / East Tennessee area*
 - [Map](https://view.mtnme.sh/map)
 - [Metrics](https://malla.mtnme.sh)
 - [Discord](https://discord.gg/fddwJHN6jf)
@@ -180,7 +180,7 @@ Meshtastic
   - Enable `Uplink` on public channels
 
 ## Nash Mesh
-- *General Mesh, Nashville, TN*
+*General Mesh, Nashville, TN*
 - [Map](https://potato.tnmesh.org/)
 - [Discord](https://discord.gg/5PFqMD62TF)
 
