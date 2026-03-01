@@ -9,7 +9,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - Links to be added...
 --------------------
 
-## Recommended Meshtastic Configuration Settings
+## Recommended Meshtastic Configuration Settings <sub>[back to top](#top)</sub>
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
 [Source](mtnmesh.github.io)
 
@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 | Ignore MQTT | True |
 | OK to MQTT | True |
 
-### Personal/Local Infrastructure <sub>[back to top](#top)</sub>
+### Personal/Local Infrastructure
 | Radio & LoRa | Value | Position & Telemetry | Value |
 | ------------ | ----- | -------------------- | ----- |
 | Region | US | Smart Position | False |
@@ -38,7 +38,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 | Ignore MQTT | True |
 | OK to MQTT | True |
 
-### Coordinated Public Infrastructure <sub>[back to top](#top)</sub>
+### Coordinated Public Infrastructure
 | Radio & LoRa | Value | Position & Telemetry | Value |
 | ------------ | ----- | -------------------- | ----- |
 | Region | US | Smart Position | False |
@@ -56,7 +56,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 
 ## Quick Links <sub>[back to top](#top)</sub>
 
-### Maps <sub>[back to top](#top)</sub>
+### Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
 - [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
 - [Mountain Mesh Map](https://view.mtnme.sh/map)
@@ -90,7 +90,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
 
-## Online Stores
+## Online Stores <sub>[back to top](#top)</sub>
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
 - [eBay (Meshtastic search)](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
@@ -101,7 +101,8 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
-## Radio Tools
+
+## Radio Tools <sub>[back to top](#top)</sub>
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
 
 -Supporting Information
