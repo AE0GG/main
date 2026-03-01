@@ -137,9 +137,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Map](https://potato.tnmesh.org/)
 - [Discord](https://discord.gg/5PFqMD62TF)
 
-<br/>
-<br/>
-
 <a name="TheCommsChannel"></a>
 ### TheCommsChannel
 *MeshCore, local Youtuber*
@@ -147,7 +144,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
 - [Discord](https://discord.gg/pVsRh9FEme)
 
-<br/>
 <br/>
 
 Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
