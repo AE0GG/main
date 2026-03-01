@@ -13,16 +13,16 @@
 [Source](mtnmesh.github.io)
 
 ### Personal Mobile Nodes
-| Radio & LoRa | Value | Position & Telemetry | Value |
-| ------------ | ----- | -------------------- | ----- |
-| Region       | US    | Smart Position | True |
-| Device Role  | CLIENT or CLIENT_MUTE | Broadcast Interval | 10800 (3 hours) |
-| Modem Preset | MEDIUM_FAST | Fixed Position | False |
-| Frequency Slot | 45 | Device Metrics | Disabled |
-| NodeInfo Interval | 10800 (3 hours) | Env. Metrics | Disabled |
-| Hop Limit | 5 |
-| Ignore MQTT | True |
-| OK to MQTT | True |
+  | Radio & LoRa | Value | Position & Telemetry | Value |
+  | ------------ | ----- | -------------------- | ----- |
+  | Region       | US    | Smart Position | True |
+  | Device Role  | CLIENT or CLIENT_MUTE | Broadcast Interval | 10800 (3 hours) |
+  | Modem Preset | MEDIUM_FAST | Fixed Position | False |
+  | Frequency Slot | 45 | Device Metrics | Disabled |
+  | NodeInfo Interval | 10800 (3 hours) | Env. Metrics | Disabled |
+  | Hop Limit | 5 |
+  | Ignore MQTT | True |
+  | OK to MQTT | True |
 
 ### Personal/Local Infrastructure
 | Radio & LoRa | Value | Position & Telemetry | Value |
