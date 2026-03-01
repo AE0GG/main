@@ -6,7 +6,7 @@
 
 --------------------
 
-**[`^        back to top        ^`](# Radio-Resources)**
+**[back to top](#top)**
 
 ## Recommended Meshtastic Configuration Settings
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
