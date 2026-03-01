@@ -6,7 +6,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 ## Table of contents
 - [Upcoming Events](#Upcoming-Events)
 - [Links](#Links)
-  - [Maps](#Map)
+  - [Maps](#Maps)
   - [Meshtastic](#Meshtastic)
   - [MeshCore](#MeshCore)
   - [Mesh Stores](#Mesh-Stores)
