@@ -3,10 +3,9 @@
 A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information. This is a work-in-progress; [suggestions welcome here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you.
 <a name="top"></a>
 
---------------------
 ## Table of contents
---------------------
 - Links to be added...
+
 --------------------
 
 ## Upcoming Events <sup>[top](#top)</sup>
