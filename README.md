@@ -7,7 +7,7 @@
 **[`^        back to top        ^`](# Radio-Resources)**
 
 ## Recommended Meshtastic Configuration Settings
-[[Source]](mtnmesh.github.io)
+*[[Source]](mtnmesh.github.io)*
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly
 
 ### Personal Mobile Nodes
@@ -127,6 +127,7 @@
 
 ## Mountain Mesh
 *General Mesh, North Georgia / East Tennessee area*
+- [Website](https://mtnme.sh/)
 - [Map](https://view.mtnme.sh/map)
 - [Metrics](https://malla.mtnme.sh)
 - [Discord](https://discord.gg/fddwJHN6jf)
