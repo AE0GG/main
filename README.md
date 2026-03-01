@@ -147,45 +147,45 @@ Meshtastic
 -TBD: Antennas, planning, calculators, 
 
 -Desktop Software
--MeshSense (Meshtastic)
--Communities
+-[MeshSense](https://affirmatech.com/meshsense) (Meshtastic)
 
--Chattanooga Amateur Radio Club (CARC)
--W4AM.net
+# Communities
 
--Tri-States Amateur Radio Club (TSARC)
--TriStatesARC.com
+## Chattanooga Amateur Radio Club (CARC)
+- [W4AM.net](http://W4AM.net)
 
--Ham Radio Crash Course
--Amateur Radio YouTuber
--Website
--YouTube Channel
--Discord
+## Tri-States Amateur Radio Club (TSARC)
+- [TriStatesARC.com](http://tristatesarc.com)
 
--TNMesh
--General Mesh, Greater Chattanooga, TN area
--Discord
+## Ham Radio Crash Course
+- *Amateur Radio YouTuber*
+- [Website](https://hamradiocrashcourse.com/)
+- [YouTube Channel](https://www.youtube.com/@HamRadioCrashCourse)
+- [Discord](https://discord.gg/X6H8Z9AmNg)
 
--Mountain Mesh
--General Mesh, North Georgia / East Tennessee area
--Map
--Discord
--MQTT Settings
--Server: mqtt.mtnme.sh
--Username: meshdev
--Password: large4cats
--Topic: mtnme.sh/GA OR mtnme.sh/TN 
--Enable `Uplink` on public channels
--https://view.mtnme.sh
--https://malla.mtnme.sh
+## TNMesh
+- General Mesh, Greater Chattanooga, TN area
+- [Discord](https://discord.gg/ZjY8dTbeGn)
 
--Nash Mesh
--General Mesh, Nashville, TN
--Map
--Discord
+## Mountain Mesh
+- *General Mesh, North Georgia / East Tennessee area*
+- [Map](https://view.mtnme.sh/map)
+- [Metrics](https://malla.mtnme.sh)
+- [Discord](https://discord.gg/fddwJHN6jf)
+- MQTT Settings
+- Server: mqtt.mtnme.sh
+- Username: meshdev
+- Password: large4cats
+- Topic: mtnme.sh/GA OR mtnme.sh/TN 
+- Enable `Uplink` on public channels
 
--TheCommsChannel
--MeshCore, local Youtuber
--Website
--YouTube Channel
--Discord
+## Nash Mesh
+- *General Mesh, Nashville, TN*
+- [Map](https://potato.tnmesh.org/)
+- [Discord](https://discord.gg/5PFqMD62TF)
+
+## TheCommsChannel
+- *MeshCore, local Youtuber*
+- [Website](https://www.thecommschannel.com/)
+- [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
+- [Discord](https://discord.gg/pVsRh9FEme)
