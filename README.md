@@ -165,6 +165,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### 2026/Q1
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
+- [ ] Add Info: More Meshtastic
+- [ ] Add Info: More MeshCore
 - [ ] Create Dry-Erase Printout for Skywarn Spotting
 - [ ] Add Info: National Weather Service / Skywarn
 - [ ] Add Info: Auxiliary Communications Service / Amateur Radio Emergency Service (ACS/ARES)
