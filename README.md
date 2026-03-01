@@ -1,10 +1,16 @@
 # AE0GG's PuNk
 ## Public-use Nick-knowledge
-A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information. This resource is heavily focused on Meshtastic/MeshCore at them moment, will receive more Amateur Radio information over time. [Suggestions welcome here!](https://forms.gle/VdfJDC5vi1kbXSSW6) Thank you.
+A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information. This resource is heavily focused on Meshtastic/MeshCore at them moment, but will receive more Amateur Radio information over time. [Suggestions welcome here!](https://forms.gle/VdfJDC5vi1kbXSSW6) Thank you.
 <a name="top"></a>
 
 ## Table of contents
-- Links to be added...
+- Upcoming Events
+- Links
+- Maps
+- Meshtastic
+- MeshCore
+- Mesh Stores
+- Radio Tools
 
 --------------------
 
@@ -50,7 +56,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
 
-### Online Stores for Mesh Devices
+### Mesh Stores
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
 - [eBay (Meshtastic search)](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
@@ -64,12 +70,9 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 ### Radio Tools
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
-
--Supporting Information
--TBD: Antennas, planning, calculators, 
-
--Desktop Software
--[MeshSense](https://affirmatech.com/meshsense) (Meshtastic)
+- Calculators (Antennas, etc.)
+- Site Planning
+- [MeshSense](https://affirmatech.com/meshsense) Desktop Software (Meshtastic)
 
 --------------------
 
