@@ -167,7 +167,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [x] Publish/share this page
 - [ ] Add Info: More Meshtastic
 - [ ] Add Info: More MeshCore
-- [ ] Create Dry-Erase Printout for Skywarn Spotting
+- [ ] Create/Link Dry-Erase Printout for Skywarn Spotting
 - [ ] Add Info: National Weather Service / Skywarn
 - [ ] Add Info: Auxiliary Communications Service / Amateur Radio Emergency Service (ACS/ARES)
 - [ ] Add Info: ARRL Volunteer Examiner (VE)
