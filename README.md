@@ -22,8 +22,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 <br/>
 
---------------------
-
 <a name="Upcoming-Events"></a>
 ## Upcoming Events <sup>[top](#top)</sup>
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
