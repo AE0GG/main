@@ -114,4 +114,4 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 
 <br/>
 <br/>
-Want information added, edited, or deleted? Leave feedback [here](https://forms.gle/VdfJDC5vi1kbXSSW6)
+[Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
