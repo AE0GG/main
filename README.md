@@ -35,44 +35,18 @@ Link or snip/screenshot for Discord; copy/paste looks ugly
 | Ignore MQTT | True |
 | OK to MQTT | True |
 
-
-
-
-
-
-
-
-Coordinated Public Infrastructure
-Radio & LoRa
-Region
-US
-Device Role
-ROUTER_LATE
-Modem Preset
-MEDIUM_FAST
-Frequency Slot
-45
-NodeInfo Interval
-21600 (6 hours)
-Rebroadcast Mode
-CORE_PORTNUMS_ONLY
-Hop Limit
-3
-Ignore MQTT
-True
-OK to MQTT
-True
-Position & Telemetry
-Smart Position
-False
-Broadcast Interval
-21600 (6 hours)
-Fixed Position
-True (set coordinates)
-Device Metrics
-10800 (3 hours)
-Env. Metrics
-10800 (3 hours)
+### Coordinated Public Infrastructure
+| Radio & LoRa | Value | Position & Telemetry | Value |
+| ------------ | ----- | -------------------- | ----- |
+| Region | US | Smart Position | False |
+| Device Role | ROUTER_LATE | Broadcast Interval | 21600 (6 hours) |
+| Modem Preset | MEDIUM_FAST | Fixed Position | True (set coordinates) |
+| Frequency Slot | 45 | Device Metrics | 10800 (3 hours) |
+| NodeInfo Interval | 21600 (6 hours) | Env. Metrics | 10800 (3 hours) |
+| Rebroadcast Mode | CORE_PORTNUMS_ONLY |
+| Hop Limit | 3 |
+| Ignore MQTT | True |
+| OK to MQTT | True |
 
 Upcoming Events
 Saturday, February 28th, 2026	Dalton Hamfest
