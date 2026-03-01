@@ -9,10 +9,10 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - Links to be added...
 --------------------
 
-## Upcoming Events <sub>[back to top](#top)</sub>
+## Upcoming Events <sup>[back to top](#top)</sup>
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
 
-## Links <sub>[back to top](#top)</sub>
+## Links <sup>[back to top](#top)</sup>
 
 ### Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
@@ -48,7 +48,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
 
-### Online Stores for Mesh Devices <sup>[back to top](#top)</sup>
+### Online Stores for Mesh Devices
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
 - [eBay (Meshtastic search)](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
@@ -69,7 +69,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 -Desktop Software
 -[MeshSense](https://affirmatech.com/meshsense) (Meshtastic)
 
-## Communities <sub>[back to top](#top)</sub>
+## Communities <sup>[back to top](#top)</sup>
 
 ### Chattanooga Amateur Radio Club (CARC)
 - [W4AM.net](http://W4AM.net)
@@ -111,7 +111,7 @@ A collection of licensed and unlicensed radio links, configurations, and more. T
 - [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
 - [Discord](https://discord.gg/pVsRh9FEme)
 
-## Recommended Meshtastic Configuration Settings <sub>[back to top](#top)</sub>
+## Recommended Meshtastic Configuration Settings <sup>[back to top](#top)</sup>
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly.<br/>
 [Source](mtnmesh.github.io)
 
