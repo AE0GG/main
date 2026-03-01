@@ -6,7 +6,8 @@
 ## Hot Items
 **[`^        back to top        ^`](# Radio-Resources)**
 
-## Recommended Meshtastic Configuration Settings [[Source]](mtnmesh.github.io)
+## Recommended Meshtastic Configuration Settings
+[[Source]](mtnmesh.github.io)
 **NOTE**: Link or snip/screenshot for Discord; copy/paste looks ugly
 
 ### Personal Mobile Nodes
