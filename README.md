@@ -16,7 +16,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Communities](#Communities)
   - [Chattanooga ARC](#ChattanoogaARC)
   - [Tri-States ARC](#TriStatesARC)
-  - [Lookout Mtn ARC](#LMARC)
+  - [Lookout Mountain Amateur Radio Community](#LMARC)
   - [Ham Radio Crash Course](#HRCC)
   - [TNMesh](#TNMesh)
   - [Mountain Mesh](#Mountain-Mesh)
@@ -179,6 +179,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: Auxiliary Communications Service / Amateur Radio Emergency Service (ACS/ARES)
 - [ ] Add Info: ARRL Volunteer Examiner (VE)
 - [ ] Add Info: Personal Database of Users (User IDs, Call Signs, No Real Names)
+- [ ] Add Info: Automatic Packet Reporting System (APRS)
 
 <a name="Q2"></a>
 ### 2026/Q2
