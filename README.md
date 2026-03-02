@@ -115,6 +115,10 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### Tri-States Amateur Radio Club (TSARC)
 - [TriStatesARC.com](http://tristatesarc.com)
 
+<a name="LMARC"></a>
+### Lookout Mountain Amateur Radio Community (LMARC)
+- [TriStatesARC.com](https://lmarc.net/club/)
+
 <a name="Ham-Radio-Crash-Course"></a>
 ### Ham Radio Crash Course
 *Amateur Radio YouTuber*
