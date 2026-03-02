@@ -15,7 +15,7 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Radio Tools](#Radio-Tools)
 - [Communities](#Communities)
   - [Chattanooga ARC](#ChattanoogaARC)
-  - [Tri-States ARC](#Tri-StatesARC)
+  - [Tri-States ARC](#TriStatesARC)
   - [Lookout Mtn ARC](#LMARC)
   - [Ham Radio Crash Course](#HRCC)
   - [TNMesh](#TNMesh)
@@ -112,7 +112,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### Chattanooga Amateur Radio Club (CARC)
 - [W4AM.net](http://W4AM.net)
 
-<a name="Tri-StatesARC"></a>
+<a name="TriStatesARC"></a>
 ### Tri-States Amateur Radio Club (TSARC)
 - [TriStatesARC.com](http://tristatesarc.com)
 
@@ -120,7 +120,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### Lookout Mountain Amateur Radio Community (LMARC)
 - [TriStatesARC.com](https://lmarc.net/club/)
 
-<a name="Ham-Radio-Crash-Course"></a>
+<a name="HRCC"></a>
 ### Ham Radio Crash Course
 *Amateur Radio YouTuber*
 - [Website](https://hamradiocrashcourse.com/)
