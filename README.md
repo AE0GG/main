@@ -170,6 +170,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### 2026/Q1
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
+- [ ] Rework: Link Functionally to Improve Mobile Experience
+- [ ] Break Headers Into Separate Pages
 - [ ] Add Info: More Meshtastic
 - [ ] Add Info: More MeshCore
 - [ ] Create/Link Dry-Erase Printout for Skywarn Spotting
