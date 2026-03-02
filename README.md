@@ -31,9 +31,10 @@ A collection of licensed and unlicensed radio links and information. This page w
 <br/>
 
 --------------------
-<sup>[top](#top)</sup>
+
 <a name="Upcoming-Events"></a>
 ## Upcoming Events
+<sup>[top](#top)</sup>
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
 
 <br/>
@@ -107,7 +108,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 --------------------
 
 <a name="Communities"></a>
-## Communities <sup>[top](#top)</sup>
+## Communities
+<sup>[top](#top)</sup>
 
 <a name="ChattanoogaARC"></a>
 ### Chattanooga Amateur Radio Club (CARC)
@@ -165,7 +167,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 --------------------
 
 <a name="Upcoming-Edits"></a>
-## Upcoming Edits <sup>[top](#top)</sup>
+## Upcoming Edits
+<sup>[top](#top)</sup>
 
 <a name="#Q1"></a>
 ### 2026/Q1
