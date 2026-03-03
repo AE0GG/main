@@ -156,7 +156,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Discord](https://discord.gg/5PFqMD62TF)
 
 <a name="the-comms-channel"></a>
-### TheCommsChannel
+### The Comms Channel
 *MeshCore, local Youtuber*
 - [Website](https://www.thecommschannel.com/)
 - [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
