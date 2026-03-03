@@ -168,7 +168,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 <a name="Upcoming-Edits"></a>
 ## Upcoming Edits
-<sup>[top](#top)</sup>
 
 <a name="#Q1"></a>
 ### 2026/Q1
