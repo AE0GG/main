@@ -23,11 +23,10 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Nash Mesh](#nash-mesh)
   - [The Comms Channel](#the-comms-channel)
 - [Upcoming Edits](#upcoming-edits)
-  - [Quarter 1](#q1)
-  - [Test Link](#test-link)
-  - [2026 Quarter 4](quarter-two)
-  - [Quarter Three](#quarter-three)
-  - [2026 Q4](#quarter-four)
+  - [Spring](#spring)
+  - [Summer](#summer)
+  - [Fall](fall)
+  - [Winter](#winter)
 
 <br/>
 
@@ -167,8 +166,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 <a name="upcoming-edits"></a>
 ## Upcoming Edits
 
-<a name="q1"></a>
-### 2026/Q1
+<a name="spring"></a>
+### Spring
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
 - [ ] Rework: Link Functionally to Improve Mobile Experience
@@ -182,25 +181,21 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: Personal Database of Users (User IDs, Call Signs, No Real Names)
 - [ ] Add Info: Automatic Packet Reporting System (APRS)
 
-<a name="2026-quarter-4"></a>
-### 2026 Quarter Four
+<a name="summer"></a>
+### Summer
 - [ ] Add Info: Parks-On-The-Air (POTA)
 - [ ] Add Info: Summits-On-The-Air (SOTA)
 - [ ] Add Info: AREDN
 - [ ] Add Info: CW (Morse code)
 
-<a name="quarter-three"></a>
-### Quarter Three
+<a name="fall"></a>
+### Fall 2026
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 
-<a name="test-link"></a>
-### Test Link
-- [ ] Add
-
-<a name="quarter-four"></a>
-### 2026 Q4
+<a name="winter"></a>
+### Winter
 Words, words, words
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
