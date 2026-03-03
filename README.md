@@ -146,7 +146,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 ## Table of Contents Two
 This Table of Contents will replace what you see above. Pages have been created for each of these topics, but many of the pages have not been filled in. Once the above information has been copied to their individual pages, you will see the change.
 - [ARRL Examinations](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
-- [Amateur Radio Emergency Data Network (AREDN)](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
+- [Amateur Radio Emergency Data Network (AREDN)](https://github.com/AE0GG/main/blob/main/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN).md)
 - [Amateur Radio Emergency Service (ARES)](https://github.com/AE0GG/main/blob/main/Amateur%20Radio%20Emergency%20Service%20(ARES).md)
 - [Automatic Packet Reporting System (APRS)](https://github.com/AE0GG/main/blob/main/Automatic%20Packet%20Reporting%20System%20(APRS).md)
 - [Auxiliary Communications Service (ACS)](https://github.com/AE0GG/main/blob/main/Auxiliary%20Communication%20Service%20(ACS).md)
@@ -155,9 +155,9 @@ This Table of Contents will replace what you see above. Pages have been created 
 - [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)
 - [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md)
 - [National Weather Service (NWS) Skywarn](https://github.com/AE0GG/main/blob/main/National%20Weather%20Service%20(NWS)%20-%20Skywarn.md)
-- [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/main/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA))
+- [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/main/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA).md)
 - [Radio Tools](https://github.com/AE0GG/main/blob/main/Radio%20Tools.md)
-- **SEPARATE** (Stays on this page): [My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database)
+- **SEPARATE** (Stays on this page): [My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database.md)
 
 --------------------
 
