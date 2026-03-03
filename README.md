@@ -109,15 +109,15 @@ A collection of licensed and unlicensed radio links and information. This page w
 ## Communities
 
 <a name="carc"></a>
-### Chattanooga Amateur Radio Club (CARC)
+### Chattanooga Amateur Radio Club
 - [W4AM.net](http://W4AM.net)
 
 <a name="TSARC"></a>
-### Tri-States Amateur Radio Club (TSARC)
+### Tri-States Amateur Radio Club
 - [TriStatesARC.com](http://tristatesarc.com)
 
 <a name="LMARC"></a>
-### Lookout Mountain Amateur Radio Community (LMARC)
+### Lookout Mountain Amateur Radio Community
 - [TriStatesARC.com](https://lmarc.net/club/)
 
 <a name="HRCC"></a>
@@ -189,7 +189,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: CW (Morse code)
 
 <a name="Q3"></a>
-### 2026/Q3
+### 2026
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
