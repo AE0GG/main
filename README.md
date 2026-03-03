@@ -81,9 +81,7 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [4000 7th Ave, Chattanooga, TN, 37407](https://maps.app.goo.gl/pbTd9ZD3ZMaxM2MN6)
 
 ### Mesh-Specific Stores
-- [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
-- [eBay (Meshtastic search)](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
 - [LilyGo](https://lilygo.cc/en-us/collections/lilygo-with-meshtastic)
 - [MeshCore](https://store.meshcore.co.uk/collections/all)
 - [muzi.works](https://muzi.works/collections/all)
@@ -91,6 +89,9 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
+- "Meshtastic" search on other popular options
+  - [Amazon](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
+  - [eBay](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
 
 ### Radio Tools
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
