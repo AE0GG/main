@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Upcoming Edits](#upcoming-edits)
   - [Quarter 1](#q1)
   - [Test Link](#test-link)
-  - [Quaert Two](#q2)
+  - [Quaert Two](#qtwo)
   - [Quarter 3](#q3)
   - [2026/Q4](#qfour)
 
@@ -182,7 +182,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: Personal Database of Users (User IDs, Call Signs, No Real Names)
 - [ ] Add Info: Automatic Packet Reporting System (APRS)
 
-<a name="q2"></a>
+<a name="qtwo"></a>
 ### Quarter Two
 - [ ] Add Info: Parks-On-The-Air (POTA)
 - [ ] Add Info: Summits-On-The-Air (SOTA)
