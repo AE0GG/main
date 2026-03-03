@@ -30,6 +30,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 ## Links
 
 ### Maps
+- [AREDN World Map](https://worldmap.arednmesh.org/#3.39/40.07/-89.570)
+- [HF Propogation Map (*EM74jx*)](https://hf.dxview.org/perspective/EM74JX)
 - [MeshMap (Meshtastic)](https://meshmap.net/)
 - [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
 - [Mountain Mesh Map](https://view.mtnme.sh/map)
