@@ -26,7 +26,7 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Quarter 1](#q1)
   - [Test Link](#test-link)
   - [Quarter Two](#qtwo)
-  - [Quarter 3](#q3)
+  - [Quarter Three](#quarter-three)
   - [2026/Q4](#qfour)
 
 <br/>
@@ -189,7 +189,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: AREDN
 - [ ] Add Info: CW (Morse code)
 
-<a name="q3"></a>
+<a name="quarter-three"></a>
 ### Quarter Three
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
@@ -197,11 +197,11 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 <a name="test-link"></a>
 ### Test Link
-Words, words, words
 - [ ] Add
 
 <a name="qfour"></a>
 ### Quarter 4
+Words, words, words
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
