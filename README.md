@@ -14,10 +14,10 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Mesh Stores](#Mesh-Stores)
   - [Radio Tools](#Radio-Tools)
 - [Communities](#Communities)
-  - [Chattanooga ARC](#ChattanoogaARC)
-  - [Tri-States ARC](#TriStatesARC)
+  - [Chattanooga ARC](#CARC)
+  - [Tri-States ARC](#TSARC)
   - [Lookout Mountain Amateur Radio Community](#LMARC)
-  - [Ham Radio Crash Course](#HRCC)
+  - [Ham Radio Crash Course](#H-R-C-C)
   - [TNMesh](#TNMesh)
   - [Mountain Mesh](#Mountain-Mesh)
   - [Nash Mesh](#Nash-Mesh)
@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Upcoming Edits](#Upcoming-Edits)
   - [2026/Q1](#Q1)
   - [2026/Q2](#Q2)
-  - [2026/Q3](#Q3)
+  - [2026/Q3](Q3)
   - [2026/Q4](#Q4)
 
 <br/>
@@ -108,20 +108,19 @@ A collection of licensed and unlicensed radio links and information. This page w
 <a name="Communities"></a>
 ## Communities
 
-<a name="ChattanoogaARC"></a>
+<a name="CARC"></a>
 ### Chattanooga Amateur Radio Club (CARC)
 - [W4AM.net](http://W4AM.net)
 
-<a name="TriStatesARC"></a>
+<a name="TSARC"></a>
 ### Tri-States Amateur Radio Club (TSARC)
 - [TriStatesARC.com](http://tristatesarc.com)
 
 <a name="LMARC"></a>
-<a name="LMARC"></a>
 ### Lookout Mountain Amateur Radio Community (LMARC)
 - [TriStatesARC.com](https://lmarc.net/club/)
 
-<a name="HRCC"></a>
+<a name="H-R-C-C"></a>
 ### Ham Radio Crash Course
 *Amateur Radio YouTuber*
 - [Website](https://hamradiocrashcourse.com/)
