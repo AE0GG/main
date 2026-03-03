@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Upcoming Edits](#Upcoming-Edits)
   - [2026/Q1](#Q1)
   - [2026/Q2](#Q2)
-  - [2026/Q3](#Q3)
+  - [2026/Q3](#quarter3)
   - [2026/Q4](#Q4)
 
 <br/>
@@ -188,7 +188,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: AREDN
 - [ ] Add Info: CW (Morse code)
 
-<a name="Q3"></a>
+<a name="quarter3"></a>
 ### 2026
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
