@@ -108,8 +108,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 <a name="Communities"></a>
 ## Communities
 
-<a name="CARC"></a>
-### Chattanooga Amateur Radio Club (carc)
+<a name="carc"></a>
+### Chattanooga Amateur Radio Club (CARC)
 - [W4AM.net](http://W4AM.net)
 
 <a name="TSARC"></a>
