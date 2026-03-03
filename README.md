@@ -8,34 +8,34 @@ A collection of licensed and unlicensed radio links and information. This page w
 ## Table of contents
 - [Upcoming Events](#Upcoming-Events)
 
-- [Links](#Links)
-  - [Maps](#Maps)
-  - [Meshtastic](#Meshtastic)
-  - [MeshCore](#MeshCore)
-  - [Mesh Stores](#Mesh-Stores)
-  - [Radio Tools](#Radio-Tools)
+- [Links](#links)
+  - [Maps](#maps)
+  - [Meshtastic](#meshtastic)
+  - [MeshCore](#meshcore)
+  - [Mesh Stores](#mesh-stores)
+  - [Radio Tools](#radio-tools)
 
-- [Communities](#Communities)
+- [Communities](#communities)
   - [Chattanooga ARC](#carc)
-  - [Tri-States ARC](#TSARC)
-  - [Lookout Mountain Amateur Radio Community](#LMARC)
+  - [Tri-States ARC](#tsarc)
+  - [Lookout Mountain Amateur Radio Community](#lmarc)
   - [hrcc](#hrcc)
-  - [TNMesh](#TNMesh)
-  - [Mountain Mesh](#Mountain-Mesh)
-  - [Nash Mesh](#Nash-Mesh)
-  - [The Comms Channel](#TheCommsChannel)
+  - [TNMesh](#tnmesh)
+  - [Mountain Mesh](#mountain-mesh)
+  - [Nash Mesh](#nash-mesh)
+  - [The Comms Channel](#the-comms-channel)
 
-- [Upcoming Edits](#Upcoming-Edits)
-  - [2026/Q1](#Q1)
-  - [2026/Q2](#Q2)
-  - [2026/Q3](#quarter3)
-  - [2026/Q4](#Q4)
+- [Upcoming Edits](#upcoming-edits)
+  - [2026/Q1](#q1)
+  - [2026/Q2](#q2)
+  - [2026/Q3](#q3)
+  - [2026/Q4](#q4)
 
 <br/>
 
 --------------------
 
-<a name="Upcoming-Events"></a>
+<a name="upcoming-events"></a>
 ## Upcoming Events
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
 
@@ -43,10 +43,10 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-<a name="Links"></a>
+<a name="links"></a>
 ## Links
 
-<a name="Maps"></a>
+<a name="maps"></a>
 ### Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
 - [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
@@ -56,7 +56,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Reticulum Map](https://rmap.world/)
 - [SpecFive Map](https://specfive.com/pages/meshmap)
 
-<a name="Meshtastic"></a>
+<a name="meshtastic"></a>
 ### Meshtastic
 - [Official Website](https://meshtastic.org/)
 - [Web Flasher](https://flasher.meshtastic.org/)
@@ -74,7 +74,7 @@ A collection of licensed and unlicensed radio links and information. This page w
   - Password: `large4cats`
   - Enable `Uplink` on public channels
 
-<a name="MeshCore"></a>
+<a name="meshcore"></a>
 ### MeshCore
 - [Official Website](https://meshcore.nz/)
 - [Web Flasher](https://flasher.meshcore.co.uk/)
@@ -84,7 +84,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
 
-<a name="Mesh-Stores"></a>
+<a name="mesh-stores"></a>
 ### Mesh Stores
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
@@ -97,7 +97,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
 
-<a name="Radio-Tools"></a>
+<a name="radio-tools"></a>
 ### Radio Tools
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
 - [MeshSense](https://affirmatech.com/meshsense) Desktop Software (Meshtastic)
@@ -108,18 +108,18 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-<a name="Communities"></a>
+<a name="communities"></a>
 ## Communities
 
 <a name="carc"></a>
 ### Chattanooga Amateur Radio Club
 - [W4AM.net](http://W4AM.net)
 
-<a name="TSARC"></a>
+<a name="tsarc"></a>
 ### Tri-States Amateur Radio Club
 - [TriStatesARC.com](http://tristatesarc.com)
 
-<a name="LMARC"></a>
+<a name="lmarc"></a>
 ### Lookout Mountain Amateur Radio Community
 - [TriStatesARC.com](https://lmarc.net/club/)
 
@@ -130,12 +130,12 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [YouTube Channel](https://www.youtube.com/@HamRadioCrashCourse)
 - [Discord](https://discord.gg/X6H8Z9AmNg)
 
-<a name="TNMesh"></a>
+<a name="tnmesh"></a>
 ### TNMesh
 *General Mesh, Greater Chattanooga, TN area*
 - [Discord](https://discord.gg/ZjY8dTbeGn)
 
-<a name="Mountain-Mesh"></a>
+<a name="mountain-mesh"></a>
 ### Mountain Mesh
 *General Mesh, North Georgia / East Tennessee area*
 - [Website](https://mtnme.sh/)
@@ -149,13 +149,13 @@ A collection of licensed and unlicensed radio links and information. This page w
   - Topic:    `mtnme.sh/GA` OR `mtnme.sh/TN `
   - Enable `Uplink` on public channels
 
-<a name="Nash-Mesh"></a>
+<a name="nash-mesh"></a>
 ### Nash Mesh
 *General Mesh, Nashville, TN*
 - [Map](https://potato.tnmesh.org/)
 - [Discord](https://discord.gg/5PFqMD62TF)
 
-<a name="TheCommsChannel"></a>
+<a name="the-comms-channel"></a>
 ### TheCommsChannel
 *MeshCore, local Youtuber*
 - [Website](https://www.thecommschannel.com/)
@@ -166,10 +166,10 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-<a name="Upcoming-Edits"></a>
+<a name="upcoming-edits"></a>
 ## Upcoming Edits
 
-<a name="Q1"></a>
+<a name="q1"></a>
 ### 2026/Q1
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
@@ -184,20 +184,20 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: Personal Database of Users (User IDs, Call Signs, No Real Names)
 - [ ] Add Info: Automatic Packet Reporting System (APRS)
 
-<a name="Q2"></a>
+<a name="q2"></a>
 ### 2026/Q2
 - [ ] Add Info: Parks-On-The-Air (POTA)
 - [ ] Add Info: Summits-On-The-Air (SOTA)
 - [ ] Add Info: AREDN
 - [ ] Add Info: CW (Morse code)
 
-<a name="quarter3"></a>
+<a name="q3"></a>
 ### 2026
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 
-<a name="Q4"></a>
+<a name="q4"></a>
 ### 2026/Q4
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
