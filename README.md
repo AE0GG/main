@@ -23,7 +23,7 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Nash Mesh](#nash-mesh)
   - [The Comms Channel](#the-comms-channel)
 - [Upcoming Edits](#upcoming-edits)
-  - [2026/Q1](#q1)
+  - [2026 Quarter 1](#q1)
   - [Test-Link](#test-link)
   - [2026/Q2](#q2)
   - [2026/Q3](#q3)
@@ -190,7 +190,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: CW (Morse code)
 
 <a name="q3"></a>
-### 2026
+### 2026 Quarter 3
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
@@ -200,7 +200,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 Words, words, words
 
 <a name="q4"></a>
-### 2026/Q4
+### 2026 Quarter 4
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
