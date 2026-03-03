@@ -14,7 +14,7 @@ A collection of licensed and unlicensed radio links and information. This page w
   * [Mesh Stores](#mesh-stores)
   * [Radio Tools](#radio-tools)
 - [Communities](#communities)
-  - [Chattanooga ARC](#chattanooga-arc)
+  - [Chattanooga ARC](#chattanooga-amateur-radio-club)
   - [Tri-States ARC](#tri-state-arc)
   - [Lookout Mountain ARC](#lookout-mountain-arc)
   - [Ham Radio Crash Course](#ham-radio-crash-course)
