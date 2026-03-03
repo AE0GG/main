@@ -165,7 +165,8 @@ This Table of Contents will replace what you see above. Pages have been created 
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
 - [x] Rework: Link Functionally to Improve Mobile Experience
-- [ ] Break Headers Into Separate Pages
+- [x] Build Topic Pages
+- [ ] Move Data To Individual Pages
 - [ ] Add Info: More Meshtastic
 - [ ] Add Info: More MeshCore
 - [ ] Create/Link Dry-Erase Printout for Skywarn Spotting
