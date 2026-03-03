@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Upcoming Edits](#upcoming-edits)
   - [Quarter 1](#q1)
   - [Test Link](#test-link)
-  - [2026 Quarter 4](#2026-Quarter-4)
+  - [2026 Quarter 4](quarter-two)
   - [Quarter Three](#quarter-three)
   - [2026 Q4](#quarter-four)
 
@@ -200,7 +200,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add
 
 <a name="quarter-four"></a>
-### Quarter Four
+### 2026 Q4
 Words, words, words
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
