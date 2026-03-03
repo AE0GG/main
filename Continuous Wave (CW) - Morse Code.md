@@ -1,4 +1,4 @@
-# Continuous Wave (CW) / Morse Code
+# Continuous Wave (CW) - Morse Code
 🐽 This page has not been built yet. 🐽 <br>
 Please feel free to suggest additions for this page [here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
 
