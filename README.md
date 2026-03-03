@@ -24,10 +24,10 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [The Comms Channel](#the-comms-channel)
 - [Upcoming Edits](#upcoming-edits)
   - [Quarter 1](#q1)
-  - [Test-Link](#test-link)
+  - [Test Link](#test-link)
   - [Q2](#q2)
   - [2026/Q3](#q3)
-  - [2026/Q4](#q4)
+  - [2026/Q4](#qfour)
 
 <br/>
 
@@ -200,7 +200,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 Words, words, words
 - [ ] Add
 
-<a name="q4"></a>
+<a name="qfour"></a>
 ### Quarter 4
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
