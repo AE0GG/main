@@ -1,7 +1,6 @@
 # AE0GG's PuNk
 ## Public-use Nick-knowledge
 A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information. This resource is heavily focused on Meshtastic/MeshCore at them moment, but will receive more Amateur Radio information over time. [Suggestions welcome here!](https://forms.gle/VdfJDC5vi1kbXSSW6) Thank you.
-<a name="top"></a>
 
 <br/>
 
@@ -28,7 +27,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-<a name="upcoming-events"></a>
 ## Upcoming Events
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
 
@@ -36,10 +34,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-<a name="links"></a>
 ## Links
 
-<a name="maps"></a>
 ### Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
 - [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
@@ -49,7 +45,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Reticulum Map](https://rmap.world/)
 - [SpecFive Map](https://specfive.com/pages/meshmap)
 
-<a name="meshtastic"></a>
 ### Meshtastic
 - [Official Website](https://meshtastic.org/)
 - [Web Flasher](https://flasher.meshtastic.org/)
@@ -67,7 +62,6 @@ A collection of licensed and unlicensed radio links and information. This page w
   - Password: `large4cats`
   - Enable `Uplink` on public channels
 
-<a name="meshcore"></a>
 ### MeshCore
 - [Official Website](https://meshcore.nz/)
 - [Web Flasher](https://flasher.meshcore.co.uk/)
@@ -77,7 +71,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
 
-<a name="mesh-stores"></a>
 ### Mesh Stores
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
@@ -90,7 +83,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
 
-<a name="radio-tools"></a>
 ### Radio Tools
 - [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
 - [MeshSense](https://affirmatech.com/meshsense) Desktop Software (Meshtastic)
@@ -101,10 +93,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-<a name="communities"></a>
 ## Communities
 
-<a name="chattanooga-arc"></a>
 ### Chattanooga Amateur Radio Club
 - [W4AM.net](http://W4AM.net)
 
@@ -114,19 +104,16 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### Lookout Mountain Amateur Radio Community
 - [TriStatesARC.com](https://lmarc.net/club/)
 
-<a name="ham-radio-crash-course"></a>
 ### Ham Radio Crash Course
 *Amateur Radio YouTuber*
 - [Website](https://hamradiocrashcourse.com/)
 - [YouTube Channel](https://www.youtube.com/@HamRadioCrashCourse)
 - [Discord](https://discord.gg/X6H8Z9AmNg)
 
-<a name="tnmesh"></a>
 ### TNMesh
 *General Mesh, Greater Chattanooga, TN area*
 - [Discord](https://discord.gg/ZjY8dTbeGn)
 
-<a name="mountain-mesh"></a>
 ### Mountain Mesh
 *General Mesh, North Georgia / East Tennessee area*
 - [Website](https://mtnme.sh/)
@@ -140,13 +127,11 @@ A collection of licensed and unlicensed radio links and information. This page w
   - Topic:    `mtnme.sh/GA` OR `mtnme.sh/TN `
   - Enable `Uplink` on public channels
 
-<a name="nash-mesh"></a>
 ### Nash Mesh
 *General Mesh, Nashville, TN*
 - [Map](https://potato.tnmesh.org/)
 - [Discord](https://discord.gg/5PFqMD62TF)
 
-<a name="the-comms-channel"></a>
 ### The Comms Channel
 *MeshCore, local Youtuber*
 - [Website](https://www.thecommschannel.com/)
@@ -157,7 +142,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-<a name="upcoming-edits"></a>
 ## Upcoming Edits
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
