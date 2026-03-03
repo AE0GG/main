@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Upcoming Edits](#upcoming-edits)
   - [Quarter 1](#q1)
   - [Test Link](#test-link)
-  - [Quaert Two](#qtwo)
+  - [Quarter Two](#qtwo)
   - [Quarter 3](#q3)
   - [2026/Q4](#qfour)
 
