@@ -1,11 +1,11 @@
 # AE0GG's PuNk
 ## Public-use Nick-knowledge
-A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information. This resource is heavily focused on Meshtastic/MeshCore at them moment, but will receive more Amateur Radio information over time. [Suggestions welcome here!](https://forms.gle/VdfJDC5vi1kbXSSW6) Thank you.
+A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information. This resource is heavily focused on Meshtastic/MeshCore at the moment, but will receive more Amateur Radio information over time. [Suggestions welcome here!](https://forms.gle/VdfJDC5vi1kbXSSW6) Thank you.
 
 <br/>
 
 ## Table of contents
-- [Upcoming Events](#Upcoming-Events)
+- [Upcoming Events](#my-upcoming-events)
 - [Links](#links)
   - [Maps](#maps)
   - [Meshtastic](#meshtastic)
@@ -27,7 +27,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 --------------------
 
-## Upcoming Events
+## My Upcoming Events
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
 
 <br/>
