@@ -6,15 +6,13 @@ A collection of licensed and unlicensed radio links and information. This page w
 <br/>
 
 ## Table of contents
-- [Upcoming Events](#Upcoming-Events)
-
-- [Links](#links)
-  - [Maps](#maps)
-  - [Meshtastic](#meshtastic)
-  - [MeshCore](#meshcore)
-  - [Mesh Stores](#mesh-stores)
-  - [Radio Tools](#radio-tools)
-
+* [Upcoming Events](#Upcoming-Events)
+* [Links](#links)
+  * [Maps](#maps)
+  * [Meshtastic](#meshtastic)
+  * [MeshCore](#meshcore)
+  * [Mesh Stores](#mesh-stores)
+  * [Radio Tools](#radio-tools)
 - [Communities](#communities)
   - [Chattanooga ARC](#carc)
   - [Tri-States ARC](#tsarc)
@@ -24,7 +22,6 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Mountain Mesh](#mountain-mesh)
   - [Nash Mesh](#nash-mesh)
   - [The Comms Channel](#the-comms-channel)
-
 - [Upcoming Edits](#upcoming-edits)
   - [2026/Q1](#q1)
   - [2026/Q2](#q2)
