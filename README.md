@@ -14,10 +14,10 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Mesh Stores](#Mesh-Stores)
   - [Radio Tools](#Radio-Tools)
 - [Communities](#Communities)
-  - [Chattanooga ARC](#CARC)
+  - [Chattanooga ARC](#carc)
   - [Tri-States ARC](#TSARC)
   - [Lookout Mountain Amateur Radio Community](#LMARC)
-  - [Ham Radio Crash Course](#H-R-C-C)
+  - [Ham Radio Crash Course](#HRCC)
   - [TNMesh](#TNMesh)
   - [Mountain Mesh](#Mountain-Mesh)
   - [Nash Mesh](#Nash-Mesh)
@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Upcoming Edits](#Upcoming-Edits)
   - [2026/Q1](#Q1)
   - [2026/Q2](#Q2)
-  - [2026/Q3](Q3)
+  - [2026/Q3](#Q3)
   - [2026/Q4](#Q4)
 
 <br/>
@@ -109,7 +109,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 ## Communities
 
 <a name="CARC"></a>
-### Chattanooga Amateur Radio Club (CARC)
+### Chattanooga Amateur Radio Club (carc)
 - [W4AM.net](http://W4AM.net)
 
 <a name="TSARC"></a>
@@ -120,7 +120,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### Lookout Mountain Amateur Radio Community (LMARC)
 - [TriStatesARC.com](https://lmarc.net/club/)
 
-<a name="H-R-C-C"></a>
+<a name="HRCC"></a>
 ### Ham Radio Crash Course
 *Amateur Radio YouTuber*
 - [Website](https://hamradiocrashcourse.com/)
