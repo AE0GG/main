@@ -5,7 +5,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 <br/>
 
 ## Table of contents
-- [Upcoming Events](#upcoming-events)
 - [Links](#links)
   - [Maps](#maps)
   - [Meshtastic](#meshtastic)
@@ -23,17 +22,6 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Nash Mesh](#nash-mesh)
   - [The Comms Channel](#the-comms-channel)
 - [Backlog](#backlog)
-
-<br/>
-
---------------------
-
-## Upcoming Events
-*Events I plan to attend; see club calendars for more.*
-- ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
-- TBD
-- TBD
-- TBD
 
 <br/>
 
