@@ -25,8 +25,8 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Upcoming Edits](#upcoming-edits)
   - [Quarter 1](#q1)
   - [Test Link](#test-link)
-  - [Q2](#q2)
-  - [2026/Q3](#q3)
+  - [Quaert Two](#q2)
+  - [Quarter 3](#q3)
   - [2026/Q4](#qfour)
 
 <br/>
@@ -183,14 +183,14 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: Automatic Packet Reporting System (APRS)
 
 <a name="q2"></a>
-### 2026/Q2
+### Quarter Two
 - [ ] Add Info: Parks-On-The-Air (POTA)
 - [ ] Add Info: Summits-On-The-Air (SOTA)
 - [ ] Add Info: AREDN
 - [ ] Add Info: CW (Morse code)
 
 <a name="q3"></a>
-### 2026 Quarter 3
+### Quarter Three
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
 - [ ] Add Info: TBD
