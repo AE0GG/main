@@ -179,13 +179,6 @@ This Table of Contents will replace what you see above. Pages have been created 
 - [ ] Add Info: Summits-On-The-Air (SOTA)
 - [ ] Add Info: AREDN
 - [ ] Add Info: CW (Morse code)
-- [x] #1
-- [x] #2
-- [x] #3
-- [ ] #4
-- [ ] #5
-- [ ] #6
-- [ ] #7
 
 <br/>
 <br/>
