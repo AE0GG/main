@@ -27,7 +27,7 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Test Link](#test-link)
   - [Quarter Two](#qtwo)
   - [Quarter Three](#quarter-three)
-  - [Quarter Four](#q-four)
+  - [Quarter Four](#quarter-four)
 
 <br/>
 
@@ -199,7 +199,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 ### Test Link
 - [ ] Add
 
-<a name="q-four"></a>
+<a name="quarter-four"></a>
 ### Quarter Four
 Words, words, words
 - [ ] Add Info: TBD
