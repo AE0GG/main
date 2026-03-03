@@ -1,7 +1,7 @@
 # Meshtastic
 Description
 
-[Return to Main](main)
+[Return to Main](https://github.com/AE0GG/main/blob/main/README.md)
 
 ## Table of Contents
 - [Google](https://www.google.com/) *This is just an example/placeholder*
