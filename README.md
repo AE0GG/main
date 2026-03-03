@@ -10,7 +10,8 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Maps](#maps)
   - [Meshtastic](#meshtastic)
   - [MeshCore](#meshcore)
-  - [Mesh Stores](#mesh-stores)
+  - [Radio Stores](#radio-stores)
+  - [Mesh Stores](#mesh-specific-stores)
   - [Radio Tools](#radio-tools)
 - [Communities](#communities)
   - [Chattanooga ARC](#chattanooga-amateur-radio-club)
@@ -30,6 +31,9 @@ A collection of licensed and unlicensed radio links and information. This page w
 ## Upcoming Events
 *Events I plan to attend; see club calendars for more.*
 - ~~Saturday, February 28th, 2026~~	[Dalton Hamfest](https://www.arrl.org/hamfests/dalton-hamfest-14)
+- TBD
+- TBD
+- TBD
 
 <br/>
 
@@ -72,7 +76,10 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [Reddit](https://www.reddit.com/r/meshcore/)
 - [Initial Setup (soon)]()
 
-### Mesh Stores
+### Radio Stores
+- [Chatt Radio](https://www.chattradio.com/) [4000 7th Ave, Chattanooga, TN, 37407](https://maps.app.goo.gl/obo7mrumpscQHbzC6)
+
+### Mesh-Specific Stores
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
 - [Atlavox (expensive)](https://atlavox.com/)
 - [eBay (Meshtastic search)](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
