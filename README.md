@@ -23,10 +23,6 @@ A collection of licensed and unlicensed radio links and information. This page w
   - [Nash Mesh](#nash-mesh)
   - [The Comms Channel](#the-comms-channel)
 - [Upcoming Edits](#upcoming-edits)
-  - [Spring](#spring)
-  - [Summer](#summer)
-  - [Fall](fall)
-  - [Winter](#winter)
 
 <br/>
 
@@ -165,9 +161,6 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 <a name="upcoming-edits"></a>
 ## Upcoming Edits
-
-<a name="spring"></a>
-### Spring
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
 - [ ] Rework: Link Functionally to Improve Mobile Experience
@@ -180,26 +173,10 @@ A collection of licensed and unlicensed radio links and information. This page w
 - [ ] Add Info: ARRL Volunteer Examiner (VE)
 - [ ] Add Info: Personal Database of Users (User IDs, Call Signs, No Real Names)
 - [ ] Add Info: Automatic Packet Reporting System (APRS)
-
-<a name="summer"></a>
-### Summer
 - [ ] Add Info: Parks-On-The-Air (POTA)
 - [ ] Add Info: Summits-On-The-Air (SOTA)
 - [ ] Add Info: AREDN
 - [ ] Add Info: CW (Morse code)
-
-<a name="fall"></a>
-### Fall 2026
-- [ ] Add Info: TBD
-- [ ] Add Info: TBD
-- [ ] Add Info: TBD
-
-<a name="winter"></a>
-### Winter
-Words, words, words
-- [ ] Add Info: TBD
-- [ ] Add Info: TBD
-- [ ] Add Info: TBD
 
 <br/>
 <br/>
