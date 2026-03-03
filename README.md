@@ -78,7 +78,7 @@ A collection of licensed and unlicensed radio links and information. This page w
 
 ### Radio Stores
 - [Chatt Radio](https://www.chattradio.com/)
-    [4000 7th Ave, Chattanooga, TN, 37407](https://maps.app.goo.gl/pbTd9ZD3ZMaxM2MN6)
+  - [4000 7th Ave, Chattanooga, TN, 37407](https://maps.app.goo.gl/pbTd9ZD3ZMaxM2MN6)
 
 ### Mesh-Specific Stores
 - [Amazon (Meshtastic search)](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
