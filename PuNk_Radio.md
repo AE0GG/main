@@ -10,8 +10,6 @@ A collection of licensed and unlicensed radio links and information. This resour
 > [!IMPORTANT]
 > Please feel free to share your [suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6) to help. Thank you!
 
-[README](https://github.com/AE0GG/main/blob/main/README.md)
-
 ## Table of Contents
 - [ARRL Examinations](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
 - [Amateur Radio Emergency Data Network (AREDN)](https://github.com/AE0GG/main/blob/main/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN).md)
@@ -47,6 +45,8 @@ A collection of licensed and unlicensed radio links and information. This resour
 - [ ] Add Info: POTA/SOTA/IOTA
 - [ ] Add Info: Radio Tools
 - [ ] Create/link dry-erase printout for NWS Skywarn
+
+[README.md](https://github.com/AE0GG/main/blob/main/README.md)
 
 <br/>
 <br/>
