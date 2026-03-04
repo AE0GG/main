@@ -2,7 +2,8 @@
 Google's AI Overview
 > Meshtastic is an open-source, decentralized, off-grid mesh networking protocol that enables low-power, long-range text messaging and data sharing using LoRa radio bands, without needing cellular service, Wi-Fi, or the internet. It uses small, inexpensive, battery-powered radios to form a peer-to-peer mesh network, where each user acts as a node, relaying messages to others, making it ideal for, hiking, emergencies, and remote areas.
 
-[Official Website](https://meshtastic.org/)
+[Official Website](https://meshtastic.org/)<br>
+[Official Discord](https://discord.gg/pVsRh9FEme)
 
 ⭐ [Recommended Device Configuration](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
 
@@ -42,9 +43,6 @@ Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.m
   - [eBay](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
 
 ## Communities
-- [Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
-- [Reddit](https://www.reddit.com/r/meshtastic/)
-- [Official Discord](https://discord.gg/pVsRh9FEme)
 - TNMesh - *Southeast Tennessee area*
   - [Discord](https://discord.gg/ZjY8dTbeGn)
 - Mountain Mesh - *North Georgia / East Tennessee area*
@@ -65,6 +63,18 @@ Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.m
   - [Website](https://www.thecommschannel.com/)
   - [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
   - [Discord](https://discord.gg/pVsRh9FEme)
+- Chattanooga Amateur Radio Club
+  - [Website](http://W4AM.net)
+- Tri-States Amateur Radio Club
+  - [Website](http://tristatesarc.com)
+- Lookout Mountain Amateur Radio Community
+  - [Website](https://lmarc.net/club/)
+- Ham Radio Crash Course - *Amateur Radio YouTuber*
+  - [Website](https://hamradiocrashcourse.com/)
+  - [YouTube Channel](https://www.youtube.com/@HamRadioCrashCourse)
+  - [Discord](https://discord.gg/X6H8Z9AmNg)
+- [Reddit](https://www.reddit.com/r/meshtastic/)
+- [Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
 
 > [!TIP]
 > Check out the main PuNk Radio page for other communities and YouTubers. Though unlicensed, mesh technologies have begun to create space with Amateur Radio clubs and influencers.
