@@ -1,18 +1,18 @@
-🐽 This page is being built today (20260304). 🐽 <br>
+🐽 This page is being built today (March 4th, 2026). 🐽 <br>
 
 # PuNk Radio
-## Public-use Nick-knowledge Radio
-A collection of licensed and unlicensed radio links and information. This page was created to help others with frequently requested information, and to find information quickly. It does not attempt to recreate information already available. Thank you for your support!
+## Public-use Nick-knowledge
+A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. Thank you for your support!
 
-This resource is heavily focused on Meshtastic/MeshCore at the moment, but will receive more Amateur Radio information over time.
+> [!NOTE]
+> This resource will receive more Amateur Radio information soon.
+> It is heavily focused on Meshtastic/MeshCore at the moment.
+> Thank you for you patience!
+
+> [!IMPORTANT]
+> Please feel free to share your [suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6) to help. Thank you!
 
 [README](https://github.com/AE0GG/main/blob/main/README.md)
-
-Please feel free to suggest additions for this page [here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
-
-<br/>
-
---------------------
 
 ## Table of Contents
 - [ARRL Examinations](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
@@ -28,8 +28,6 @@ Please feel free to suggest additions for this page [here](https://forms.gle/Vdf
 - [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/main/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA).md)
 - [Radio Tools](https://github.com/AE0GG/main/blob/main/Radio%20Tools.md)
 - **SEPARATE** (Stays on this page): [My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database.md)
-
---------------------
 
 ## Backlog
 - [x] Transfer information from Google Doc
