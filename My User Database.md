@@ -3,8 +3,9 @@
 > [!IMPORTANT]
 > This page has not been built yet.
 
-## Table of Contents
-- [Google](https://www.google.com/) *This is just an example/placeholder*
+| Call | Discord ID(s) | Mesh Node ID(s) |
+| ---- | ------------- | --------------- |
+| AE0GG | AE0GG - Nick (PuNk) | PuNk, MuNk, SuNk, GuNk, *etc.* |
 
 ----------
 
