@@ -36,7 +36,7 @@ Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
-- "Meshtastic" search on other popular options
+- "Meshtastic" search on other popular options (*also try "LoRa" & "MeshCore"*)
   - [Amazon](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
   - [eBay](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
 - [Chatt Radio](https://www.chattradio.com/) *I believe devices will be stocked soon!*
