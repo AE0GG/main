@@ -12,9 +12,10 @@ Google's AI Overview
 ## Table of Contents
 - [Maps](#maps)
 - [Desktop Tools](#desktop-tools)
+- [Stores](#stores)
 - [Communities](#communities)
 
-[Return to Main Table of Contents](https://github.com/AE0GG/main/blob/main/README.md)
+Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
 
 ## Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
@@ -29,6 +30,9 @@ Google's AI Overview
 - [Web Client](https://client.meshtastic.org/)
 - [Web Client (TEST)](https://client-test.meshtastic.org/)
 - [MeshSense](https://affirmatech.com/meshsense) (Desktop Software)
+
+## Stores
+
 
 ## Communities
 - [Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
@@ -48,6 +52,9 @@ Google's AI Overview
     - Topic:    `mtnme.sh/GA` OR `mtnme.sh/TN `
     - Enable `Uplink` on public channels
 
+> [!TIP]
+> Check out the main PuNk Radio page for YouTubers and more communities!
+
 Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)<br>
 
-[Return to Main Table of Contents](https://github.com/AE0GG/main/blob/main/README.md)
+Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
