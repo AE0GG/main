@@ -39,6 +39,8 @@ Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh
 - "Meshtastic" search on other popular options
   - [Amazon](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
   - [eBay](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
+- [Chatt Radio](https://www.chattradio.com/) *I believe devices will be stocked soon!*
+  - [4000 7th Ave, Chattanooga, TN, 37407](https://maps.app.goo.gl/pbTd9ZD3ZMaxM2MN6)
 
 ## Communities
 - TNMesh - *Southeast Tennessee area*
