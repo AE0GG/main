@@ -28,7 +28,7 @@ Official [Website](https://meshcore.nz/) & [Discord](https://discord.gg/bSuST8xv
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
-- "Meshcore" search on other popular options (*also try "LoRa and Meshtastic*)
+- "Meshcore" search on other popular options (*also try "LoRa" and "Meshtastic"*)
   - [Amazon](https://www.amazon.com/s?k=meshcore&crid=1DPFJYTFUB8JE&sprefix=meshcore%2Caps%2C243&ref=nb_sb_noss_1)
   - [eBay](https://www.ebay.com/sch/i.html?_nkw=meshcore&_sacat=0&_from=R40&_trksid=p4624852.m570.l1313)
 - [Chatt Radio](https://www.chattradio.com/) *I believe devices will be stocked soon!*
