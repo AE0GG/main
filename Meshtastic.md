@@ -17,10 +17,6 @@
 
 <br>
 
-----------
-
-<br>
-
 ## Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
 - [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
