@@ -32,7 +32,17 @@ Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.m
 - [MeshSense](https://affirmatech.com/meshsense) (Desktop Software)
 
 ## Stores
-
+- [Atlavox (expensive)](https://atlavox.com/)
+- [LilyGo](https://lilygo.cc/en-us/collections/lilygo-with-meshtastic)
+- [MeshCore](https://store.meshcore.co.uk/collections/all)
+- [muzi.works](https://muzi.works/collections/all)
+- [RAKwireless](https://store.rakwireless.com/collections/meshtastic)
+- [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
+- [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
+- [SpecFive (expensive)](https://specfive.com/collections/all)
+- "Meshtastic" search on other popular options
+  - [Amazon](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
+  - [eBay](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
 
 ## Communities
 - [Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
@@ -51,9 +61,16 @@ Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.m
     - Password: `large4cats`
     - Topic:    `mtnme.sh/GA` OR `mtnme.sh/TN `
     - Enable `Uplink` on public channels
+- Nash Mesh - *Nashville, TN*
+  - [Map](https://potato.tnmesh.org/)
+  - [Discord](https://discord.gg/5PFqMD62TF)
+- The Comms Channel
+  - [Website](https://www.thecommschannel.com/)
+  - [YouTube Channel](https://www.youtube.com/@The_Comms_Channel)
+  - [Discord](https://discord.gg/pVsRh9FEme)
 
 > [!TIP]
-> Check out the main PuNk Radio page for YouTubers and more communities!
+> Check out the main PuNk Radio page for other communities and YouTubers. Though unlicensed, mesh technologies have begun to create space with Amateur Radio clubs and influencers.
 
 Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)<br>
 
