@@ -1,0 +1,18 @@
+# Educator Database
+Volunteers that want to help you learn more about radio!
+
+> [!IMPORTANT]
+> This page has not been built yet.
+
+> [!NOTE]
+> Please utilize the feedback link at the bottom of this page if you would like to be listed.
+
+| Call | Discord ID(s) | Topics | Contact Preference |
+| ---- | ------------- | --------------- | ------------------ |
+| :star:AE0GG | AE0GG - Nick (PuNk) [ | Meshtastic, MeshCore | Discord, Email if you know it |
+
+----------
+
+Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
+
+Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
