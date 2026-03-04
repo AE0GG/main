@@ -9,10 +9,13 @@ Eventually, this page will become what it should have only been... a user guide 
 ----------
 
 ## The Project
-...to be continued.
+*...to be continued.*
 
 ## User Guide
-...to be continued.
+1. Bookmark [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) because that's where everything starts.
+2. PuNk Radio includes a Table of Contents to all topics, an Educator Database if you need help learning something, and a Backlog of changes I have planned.
+3. *...to be continued.*
+4. See something missing? Notice incorrect information or borken links? Check out the next section on this page.
 
 ## How to Contribute
 At the botton of every page, I have included a link for suggestions and feedback. Eventually, I would like to set up private groups that can push edits as needed. Thank you for helping!
