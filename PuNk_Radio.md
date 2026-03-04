@@ -28,7 +28,7 @@ Need help learning something? Check out our [Educator Database](https://github.c
 - [x] Publish/share this page
 - [x] Rework: Link Functionally to Improve Mobile Experience
 - [x] Build Topic Pages
-- [ ] Move Data To Individual Pages
+- [x] Move Data To Individual Pages
 - [ ] Add Info: ARRL Examinations
 - [ ] Add Info: AREDN
 - [ ] Add Info: ARES
