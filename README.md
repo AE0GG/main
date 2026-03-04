@@ -15,7 +15,7 @@ Eventually, this page will become what it should have only been... a user guide 
 ...to be continued.
 
 ## How to Contribute
-At the botton of every page, I have included a link for suggestions and feedback. Eventually, I would like to set up private groups that can push edits as needed. Thank you!
+At the botton of every page, I have included a link for suggestions and feedback. Eventually, I would like to set up private groups that can push edits as needed. Thank you for helping!
 
 ----------
 
