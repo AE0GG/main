@@ -4,10 +4,7 @@ Google's AI Overview
 
 [Official Website](https://meshtastic.org/)
 
-[Share suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
-
-> [!TIP]
-> [Recommended Device Configuration](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
+⭐ [Recommended Device Configuration](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
 
 ## Table of Contents
 - [Maps](#maps)
@@ -75,3 +72,5 @@ Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.m
 Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)<br>
 
 Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
+
+Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
