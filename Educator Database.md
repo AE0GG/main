@@ -1,9 +1,6 @@
 # Educator Database
 Volunteers that want to help you learn more about radio!
 
-> [!IMPORTANT]
-> This page has not been built yet.
-
 > [!NOTE]
 > Please utilize the feedback link at the bottom of this page if you would like to be listed.
 
