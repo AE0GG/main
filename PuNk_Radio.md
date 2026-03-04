@@ -23,6 +23,10 @@ A collection of licensed and unlicensed radio links and information. This resour
 - [Radio Tools](https://github.com/AE0GG/main/blob/main/Radio%20Tools.md)
 - [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
 
+## Supporting Files
+- [README.md](https://github.com/AE0GG/main/blob/main/README.md)
+- [My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database.md)
+
 ## Backlog
 - [x] Transfer information from Google Doc
 - [x] Publish/share this page
@@ -43,10 +47,6 @@ A collection of licensed and unlicensed radio links and information. This resour
 - [ ] Add Info: POTA/SOTA/IOTA
 - [ ] Add Info: Radio Tools
 - [ ] Create/link dry-erase printout for NWS Skywarn
-
-[README.md](https://github.com/AE0GG/main/blob/main/README.md)
-
-[My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database.md)
 
 ----------
 
