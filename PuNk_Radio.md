@@ -25,7 +25,7 @@ A collection of licensed and unlicensed radio links and information. This resour
 
 ## Supporting Files
 - [README.md](https://github.com/AE0GG/main/blob/main/README.md)
-- [My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database.md)
+- [Educator Database](https://github.com/AE0GG/main/blob/main/Educator%20Database.md)
 
 ## Backlog
 - [x] Transfer information from Google Doc
