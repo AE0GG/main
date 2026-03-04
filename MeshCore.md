@@ -70,7 +70,7 @@ Official [Website](https://meshcore.nz/) & [Discord](https://discord.gg/bSuST8xv
 
 ----------
 
-Related: [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md)<br>
+Related: [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
 
 Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
 
