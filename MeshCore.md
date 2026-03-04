@@ -28,9 +28,9 @@ Official [Website](https://meshcore.nz/) & [Discord](https://discord.gg/bSuST8xv
 - [Rokland](https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo)
 - [Seeed Studio](https://www.seeedstudio.com/meshtastic-products?srsltid=AfmBOooGyXmTdZQ6f6lQ_gboLLOsWvEhU60B_Ni6kJAXCIcJmSvm9C2V)
 - [SpecFive (expensive)](https://specfive.com/collections/all)
-- "Meshtastic" search on other popular options
-  - [Amazon](https://www.amazon.com/lora-meshtastic/s?k=lora+meshtastic)
-  - [eBay](https://www.ebay.com/shop/meshtastic?_nkw=meshtastic)
+- "Meshcore" search on other popular options
+  - [Amazon](https://www.amazon.com/s?k=meshcore&crid=1DPFJYTFUB8JE&sprefix=meshcore%2Caps%2C243&ref=nb_sb_noss_1)
+  - [eBay](https://www.ebay.com/sch/i.html?_nkw=meshcore&_sacat=0&_from=R40&_trksid=p4624852.m570.l1313) *Also try "LoRa & Meshtastic*
 - [Chatt Radio](https://www.chattradio.com/) *I believe devices will be stocked soon!*
   - [4000 7th Ave, Chattanooga, TN, 37407](https://maps.app.goo.gl/pbTd9ZD3ZMaxM2MN6)
 
@@ -70,7 +70,7 @@ Official [Website](https://meshcore.nz/) & [Discord](https://discord.gg/bSuST8xv
 
 ----------
 
-Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)<br>
+Related: [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md)<br>
 
 Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
 
