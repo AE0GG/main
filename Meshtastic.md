@@ -2,8 +2,7 @@
 Google's AI Overview
 > Meshtastic is an open-source, decentralized, off-grid mesh networking protocol that enables low-power, long-range text messaging and data sharing using LoRa radio bands, without needing cellular service, Wi-Fi, or the internet. It uses small, inexpensive, battery-powered radios to form a peer-to-peer mesh network, where each user acts as a node, relaying messages to others, making it ideal for, hiking, emergencies, and remote areas.
 
-[Official Website](https://meshtastic.org/)<br>
-[Official Discord](https://discord.gg/pVsRh9FEme)
+Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh9FEme)
 
 ⭐ [Recommended Device Configuration](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
 
