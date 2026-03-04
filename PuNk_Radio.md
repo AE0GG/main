@@ -15,12 +15,13 @@ A collection of licensed and unlicensed radio links and information. This resour
 - [Auxiliary Communications Service (ACS)](https://github.com/AE0GG/main/blob/main/Auxiliary%20Communication%20Service%20(ACS).md)
 - [Continuous Wave (CW) - Morse Code](https://github.com/AE0GG/main/blob/main/Continuous%20Wave%20(CW)%20-%20Morse%20Code.md)
 - [General Mobile Radio Service (GMRS)](https://github.com/AE0GG/main/blob/main/General%20Mobile%20Radio%20Service%20(GMRS).md)
+- [High Frequency (HF)](https://github.com/AE0GG/main/blob/main/High%20Frequency%20(HF).md)
 - [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)
 - [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md)
 - [National Weather Service (NWS) Skywarn](https://github.com/AE0GG/main/blob/main/National%20Weather%20Service%20(NWS)%20-%20Skywarn.md)
 - [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/main/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA).md)
 - [Radio Tools](https://github.com/AE0GG/main/blob/main/Radio%20Tools.md)
-- **SEPARATE** (Stays on this page): [My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database.md)
+- [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
 
 ## Backlog
 - [x] Transfer information from Google Doc
@@ -44,6 +45,8 @@ A collection of licensed and unlicensed radio links and information. This resour
 - [ ] Create/link dry-erase printout for NWS Skywarn
 
 [README.md](https://github.com/AE0GG/main/blob/main/README.md)
+
+[My User Database](https://github.com/AE0GG/main/blob/main/My%20User%20Database.md)
 
 ----------
 
