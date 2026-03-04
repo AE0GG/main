@@ -5,7 +5,7 @@
 A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. Thank you for your support!
 
 > [!NOTE]
-> This resource will receive more Amateur Radio information soon. It is heavily focused on Meshtastic/MeshCore at the moment. Thank you for you patience!
+> This resource will receive more Amateur Radio information soon. It is heavily focused on [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md) at the moment. Thank you for you patience!
 
 [Share suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
 
