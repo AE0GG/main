@@ -78,7 +78,7 @@ Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh
 
 ----------
 
-Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)<br>
+Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md) & [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
 
 Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
 
