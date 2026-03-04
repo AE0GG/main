@@ -7,8 +7,7 @@ A collection of licensed and unlicensed radio links and information. This resour
 > [!NOTE]
 > This resource will receive more Amateur Radio information soon. It is heavily focused on Meshtastic/MeshCore at the moment. Thank you for you patience!
 
-> [!IMPORTANT]
-> Please feel free to share your [suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6) to help. Thank you!
+[Share suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
 
 ## Table of Contents
 - [ARRL Examinations](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
