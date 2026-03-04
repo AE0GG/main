@@ -1,10 +1,13 @@
 # General Mobile Radio Service (GMRS)
-🐽 This page has not been built yet. 🐽 <br>
-Please feel free to suggest additions for this page [here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
 
-[Return to Main](https://github.com/AE0GG/main/blob/main/README.md)
+> [!IMPORTANT]
+> This page has not been built yet.
 
 ## Table of Contents
 - [Google](https://www.google.com/) *This is just an example/placeholder*
 
-[Return to Main](https://github.com/AE0GG/main/blob/main/README.md)
+----------
+
+Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
+
+Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
