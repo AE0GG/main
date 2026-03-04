@@ -12,8 +12,6 @@ Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh
 - [Stores](#stores)
 - [Communities](#communities)
 
-Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
-
 ## Maps
 - [MeshMap (Meshtastic)](https://meshmap.net/)
 - [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
