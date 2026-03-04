@@ -73,6 +73,8 @@ Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh
 - [Reddit](https://www.reddit.com/r/meshtastic/)
 - [Discover Local Groups](https://meshtastic.org/docs/community/local-groups/)
 
+----------
+
 Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)<br>
 
 Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
