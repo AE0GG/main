@@ -21,6 +21,16 @@ Please feel free to suggest additions for this page [here](https://forms.gle/Vdf
 
 <br>
 
+## Maps
+- [MeshMap (Meshtastic)](https://meshmap.net/)
+- [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
+- [Mountain Mesh Map](https://view.mtnme.sh/map)
+- [MeshSense Map](https://meshsense.affirmatech.com/)
+- [Reticulum Map](https://rmap.world/)
+- [SpecFive Map](https://specfive.com/pages/meshmap)
+
+<br>
+
 ## Desktop Tools
 - [Web Flasher](https://flasher.meshtastic.org/)
 - [Web Client](https://client.meshtastic.org/)
@@ -46,16 +56,6 @@ Please feel free to suggest additions for this page [here](https://forms.gle/Vdf
     - Password: `large4cats`
     - Topic:    `mtnme.sh/GA` OR `mtnme.sh/TN `
     - Enable `Uplink` on public channels
-
-<br>
-
-## Maps
-- [MeshMap (Meshtastic)](https://meshmap.net/)
-- [Meshtastic Map by Liam Cottle](https://meshtastic.liamcottle.net/)
-- [Mountain Mesh Map](https://view.mtnme.sh/map)
-- [MeshSense Map](https://meshsense.affirmatech.com/)
-- [Reticulum Map](https://rmap.world/)
-- [SpecFive Map](https://specfive.com/pages/meshmap)
 
 <br>
 
