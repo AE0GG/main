@@ -3,21 +3,21 @@
 
 [Official Website](https://meshtastic.org/)
 
-Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)
-
-Please feel free to suggest additions for this page [here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
+[Share suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
 
 > [!TIP]
-> [Recommended Configuration Settings](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
+> [Recommended Device Configuration](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
 
-[Return to start](https://github.com/AE0GG/main/blob/main/README.md)
+## Table of Contents
+- [Maps](#maps)
+- [Desktop Tools](#desktop-tools)
+- [Communities](#communities)
+
+[Return to Main Table of Contents](https://github.com/AE0GG/main/blob/main/README.md)
 
 <br>
 
-## Table of Contents
-- [Common Links](#common-links)
-- [Maps](#maps)
-- [Communities](communities)
+----------
 
 <br>
 
@@ -59,4 +59,8 @@ Please feel free to suggest additions for this page [here](https://forms.gle/Vdf
 
 <br>
 
-[Return to Main](https://github.com/AE0GG/main/blob/main/README.md)
+Related: [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)<br>
+
+<br>
+
+[Return to Main Table of Contents](https://github.com/AE0GG/main/blob/main/README.md)
