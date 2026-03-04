@@ -7,8 +7,6 @@ Need help learning something? Check out our [Educator Database](https://github.c
 > [!NOTE]
 > This resource will receive more Amateur Radio information soon. It is heavily focused on [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md) at the moment. Thank you for you patience!
 
-[Share suggestions here](https://forms.gle/VdfJDC5vi1kbXSSW6). Thank you!
-
 ## Table of Contents
 - [ARRL Examinations](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
 - [Amateur Radio Emergency Data Network (AREDN)](https://github.com/AE0GG/main/blob/main/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN).md)
