@@ -10,8 +10,6 @@ Official [Website](https://www.arednmesh.org/)
 
 ## Table of Contents
 - [AREDN World Map](https://worldmap.arednmesh.org/#3.39/40.07/-89.570)
-- [HF Propogation Map (*EM74jx*)](https://hf.dxview.org/perspective/EM74JX)
-- [Reticulum Map](https://rmap.world/)
 
 ----------
 
