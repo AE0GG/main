@@ -8,6 +8,8 @@
 > [!TIP]
 > [Recommended Device Configuration](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
 
+<br>
+
 ## Table of Contents
 - [Maps](#maps)
 - [Desktop Tools](#desktop-tools)
