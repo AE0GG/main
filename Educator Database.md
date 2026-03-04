@@ -8,9 +8,9 @@ Volunteers that want to help you learn more about radio!
 > Please utilize the feedback link at the bottom of this page if you would like to be listed.
 
 **LICENSED**
-| Call | Topics | Contact Preference |
+| Call(s) | Topics | Contact Preference |
 | ---- | --------------- | ------------------ |
-| :star:AE0GG | Meshtastic, MeshCore | Discord: *AE0GG - Nick (PuNk)*, Email if you know it |
+| :star:AE0GG, WRVI684 | Meshtastic, MeshCore | Discord: *AE0GG - Nick (PuNk)* <br>Email if you know it |
 
 **UNLICENSED**
 | Discord ID(s) | Topics | Contact Preference |
