@@ -8,9 +8,9 @@ Volunteers that want to help you learn more about radio!
 > Please utilize the feedback link at the bottom of this page if you would like to be listed.
 
 **LICENSED**
-| Call(s) | Topics | Contact Preference |
-| ---- | --------------- | ------------------ |
-| :star:AE0GG, WRVI684 | Meshtastic, MeshCore | Discord: *AE0GG - Nick (PuNk)* <br>Email if you know it |
+| Ham Call | GMRS Call | Topics | Contact Preference |
+| ---- | --------- | --------------- | ------------------ |
+| AE0GG | WRVI684 | Meshtastic, MeshCore | Discord: AE0GG - Nick (PuNk) [w4r_punk] <br>Email if you know it |
 
 **UNLICENSED**
 | Discord ID(s) | Topics | Contact Preference |
