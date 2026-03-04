@@ -1,5 +1,3 @@
-🐽 This page is being built today (March 4th, 2026). 🐽 <br>
-
 # PuNk Radio
 ## Public-use Nick-knowledge
 A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. Thank you for your support!
@@ -47,8 +45,6 @@ A collection of licensed and unlicensed radio links and information. This resour
 
 [README.md](https://github.com/AE0GG/main/blob/main/README.md)
 
-<br/>
-<br/>
-<br/>
+----------
 
 Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
