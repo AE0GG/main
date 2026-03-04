@@ -9,7 +9,7 @@ Volunteers that want to help you learn more about radio!
 
 | Call | Discord ID(s) | Topics | Contact Preference |
 | ---- | ------------- | --------------- | ------------------ |
-| :star:AE0GG | AE0GG - Nick (PuNk) [ | Meshtastic, MeshCore | Discord, Email if you know it |
+| :star:AE0GG | AE0GG - Nick (PuNk) | Meshtastic, MeshCore | Discord, Email if you know it |
 
 ----------
 
