@@ -25,6 +25,7 @@ Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh
 - [Web Client](https://client.meshtastic.org/)
 - [Web Client (TEST)](https://client-test.meshtastic.org/)
 - [MeshSense](https://affirmatech.com/meshsense) (Desktop Software)
+- [Line-of-Sight Visualization](https://www.heywhatsthat.com/)
 
 ## Stores
 - [Atlavox (expensive)](https://atlavox.com/)
