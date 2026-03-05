@@ -4,8 +4,6 @@
 > This page has not been built yet.
 
 ## Table of Contents
-- [Google](https://www.google.com/) *This is just an example/placeholder*
-
 - [Website](https://www.weather.gov/)
 - [NWS Forecast](https://www.weather.gov/forecastmaps/)
 - [Spotter Weather Reports](https://www.weather.gov/mrx/SpotterReports)
