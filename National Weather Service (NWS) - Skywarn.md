@@ -6,6 +6,11 @@
 ## Table of Contents
 - [Google](https://www.google.com/) *This is just an example/placeholder*
 
+-[Website](https://www.weather.gov/)
+- [NWS Forecast](https://www.weather.gov/forecastmaps/)
+- [Spotter Weather Reports](https://www.weather.gov/mrx/SpotterReports)
+- [mPing Mobile App](https://mping.nssl.noaa.gov/)
+
 ----------
 
 Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
