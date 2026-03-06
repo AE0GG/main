@@ -1,4 +1,6 @@
 # Automatic Packet Reporting System (APRS)
+Google AI Overview
+> APRS (Automatic Packet Reporting System) is a real-time digital communication protocol for ham radio that exchanges tactical information, such as GPS location, weather data, and text messages, within a local area. It is used to track, visualize, and share data over radio frequencies.
 
 > [!IMPORTANT]
 > This page has not been built yet.
