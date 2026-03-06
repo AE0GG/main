@@ -5,9 +5,6 @@ Google AI Overview
 > [!IMPORTANT]
 > This page has not been built yet.
 
-Google AI Overview
-> HF (High Frequency) radio refers to radio waves in the 3 to 30 MHz range, commonly used for long-distance, over-the-horizon communication. By using skywave propagation to reflect signals off the ionosphere, HF radio allows voice or data transmission across continents, making it essential for military, aviation, maritime, and amateur radio, especially when infrastructure is absent.
-
 ## Table of Contents
 - [HF Propogation Map (*EM74jx*)](https://hf.dxview.org/perspective/EM74JX)
 - [Wikipedia](https://en.wikipedia.org/wiki/High_frequency)
