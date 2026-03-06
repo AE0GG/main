@@ -1,4 +1,6 @@
 # Auxiliary Communication Service (ACS)
+Google AI Overview
+> The Auxiliary Communications Service (ACS), or AUXCOMM, is a team of trained, licensed volunteer amateur radio operators ("hams") who provide emergency backup communications to government agencies, public safety, and disaster relief organizations. They support operations during disasters or large events when primary communications are overloaded or fail
 
 > [!IMPORTANT]
 > This page has not been built yet.
