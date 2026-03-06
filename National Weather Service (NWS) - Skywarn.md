@@ -1,4 +1,6 @@
 # National Weather Service (NWS) - Skywarn
+Google AI Overview
+> The National Weather Service (NWS) is a U.S. federal agency under NOAA that provides weather, water, and climate forecasts, warnings, and data for the U.S., its territories, and adjacent waters. It aims to protect life and property, enhance the national economy, and monitor hazards.
 
 > [!IMPORTANT]
 > This page has not been built yet.
