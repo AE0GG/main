@@ -21,7 +21,7 @@
 - [Radio Tools](https://github.com/AE0GG/main/blob/main/Radio%20Tools.md)
 - [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
 
-Need help learning something? Check out our [Volunteer Facilitators](https://github.com/AE0GG/main/blob/main/Volunteer%20Facilitators.md)!
+Need help learning something or getting started? Reach out to one of our [volunteer facilitators](https://github.com/AE0GG/main/blob/main/Volunteer%20Facilitators.md)!
 
 ## Backlog
 - [x] Transfer information from Google Doc
