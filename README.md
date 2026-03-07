@@ -1,6 +1,6 @@
 # The PuNk Radio Project
 ## Public-use Nick-knowledge
-A collection of licensed and unlicensed radio links and information. This resource was created to help you find commonly requested information quickly. It does not intend to recreate anything already available. Most of the information found in this resource are useful and/or popular links to help you learn more about a topic. Pages include links to official websites, wikipedias, web tools, communities, databases, and more. Thank you for your support!
+A collection of licensed and unlicensed radio links and information. This resource was created to help you find commonly requested information quickly. It does not intend to recreate anything already available. Most of the information found in this resource are useful and/or popular links to help you learn more about a topic. Pages include links to official websites, wikipedias, maps, web tools, communities, databases, and more.
 
 [▶️PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md)
 
