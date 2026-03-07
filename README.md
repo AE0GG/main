@@ -10,15 +10,15 @@ A collection of licensed and unlicensed radio links and information. This resour
 3. Check out the backlog for a status on changes
 
 ## Page Breakdown
-> Title of topic
-> Google AI generated overview(s) for a general description
-> Official links (*)
-> Hot topics & information (*)
-> Table of Contents to expedite large amounts of data(*)
-> Collected data 
-> Information on related topics (*)
-> Link back to PuNk Radio
-> Link for feedback
+* Title of topic
+* Google AI generated overview(s) for a general description
+* Official links (*)
+* Hot topics & information (*)
+* Table of Contents to expedite large amounts of data(*)
+* Collected data 
+* Information on related topics (*)
+* Link back to PuNk Radio
+* Link for feedback
 (*)*if applicable*
 
 ## How to Contribute
