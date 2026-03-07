@@ -26,4 +26,5 @@ At the botton of every page, I have included a link for suggestions and feedback
 
 ----------
 
-Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
+Have information to add, edit, or update?<br>
+[Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
