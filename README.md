@@ -16,7 +16,7 @@ A collection of licensed and unlicensed radio links and information. This resour
 * Popular information *
 * Table of Contents to browse large amounts of data quickly *
 * Data (*links, maps, tools, etc.*)
-* Information on related topics *
+* Link(s) to related topics *
 * Link back to PuNk Radio
 * Link for feedback<br>
 
