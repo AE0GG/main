@@ -12,14 +12,15 @@ A collection of licensed and unlicensed radio links and information. This resour
 ## Page Breakdown
 * Title of topic
 * Google AI generated topic overview(s)
-* Official links (*)
-* Popular information (*)
-* Table of Contents to browse large amounts of data quickly(*)
+* Official links *
+* Popular information *
+* Table of Contents to browse large amounts of data quickly *
 * Collected data 
-* Information on related topics (*)
+* Information on related topics *
 * Link back to PuNk Radio
 * Link for feedback<br>
-(*) *if applicable*
+
+* *if applicable*
 
 ## How to Contribute
 At the botton of every page, I have included a link for suggestions and feedback. Eventually, I would like to set up private groups that can push edits as needed. Thank you for helping!
