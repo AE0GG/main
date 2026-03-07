@@ -11,14 +11,14 @@ A collection of licensed and unlicensed radio links and information. This resour
 
 ## Page Breakdown
 * Title of topic
-* Google AI generated overview(s) for a general description
+* Google AI generated topic overview(s)
 * Official links (*)
-* Hot topics & information (*)
-* Table of Contents to expedite large amounts of data(*)
+* Popular information (*)
+* Table of Contents to browse large amounts of data quickly(*)
 * Collected data 
 * Information on related topics (*)
 * Link back to PuNk Radio
-* Link for feedback
+* Link for feedback<br>
 (*)*if applicable*
 
 ## How to Contribute
