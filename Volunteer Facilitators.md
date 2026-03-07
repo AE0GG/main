@@ -1,12 +1,12 @@
 # Volunteer Facilitators
 Enthusiasts that want to help you learn more about radio!
 
-> [!NOTE]
-> Please utilize the feedback link at the bottom of this page if you would like to be listed.
-
 | Ham Call | GMRS Call | Name | Topics | Contact Preference |
 | ---- | --------- | ---- | --------------- | ------------------ |
 | AE0GG | WRVI684 | Nick | Meshtastic, MeshCore | Discord: AE0GG - Nick (PuNk) [w4r_punk] <br>Email if you know it |
+
+> [!NOTE]
+> Please utilize the feedback link at the bottom of this page if you would like to be listed.
 
 ----------
 
