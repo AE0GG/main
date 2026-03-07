@@ -6,9 +6,6 @@ A collection of licensed and unlicensed radio links and information. This resour
 
 <br>
 
-## The Project
-*...to be continued.*
-
 ## User Guide
 1. Bookmark [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) because that's where everything starts.
 2. PuNk Radio includes a Table of Contents to all topics, an Educator Database if you need help learning something, and a Backlog of changes I have planned.
