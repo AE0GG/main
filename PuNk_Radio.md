@@ -1,8 +1,6 @@
 # PuNk Radio
-#### Overview
-A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. For more information, [README](https://github.com/AE0GG/main/blob/main/README.md). Thank you for your support!
-
-Need help learning something? Check out our [Educator Database](https://github.com/AE0GG/main/blob/main/Educator%20Database.md)! **
+#### A collection of licensed and unlicensed radio links and information.
+###### For more information, [README](https://github.com/AE0GG/main/blob/main/README.md).
 
 > [!NOTE]
 > This resource will receive more Amateur Radio information soon. It is heavily focused on [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md) at the moment. Thank you for you patience!
@@ -22,6 +20,8 @@ Need help learning something? Check out our [Educator Database](https://github.c
 - [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/main/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA).md)
 - [Radio Tools](https://github.com/AE0GG/main/blob/main/Radio%20Tools.md)
 - [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
+
+Need help learning something? Check out our [Volunteer Facilitators](https://github.com/AE0GG/main/blob/main/Volunteer%20Facilitators.md)!
 
 ## Backlog
 - [x] Transfer information from Google Doc
