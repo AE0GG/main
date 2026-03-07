@@ -2,9 +2,7 @@
 ## Public-use Nick-knowledge
 A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. Most of the information found in this resource are useful and/or popular links to help you learn more about a topic. Pages attempt to include links to official resources, wikipedias, and communities. Hot topics will be listed early on a page for quick reference. Thank you for your support!
 
-# [▶️PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md)
-
-<br>
+[▶️PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md)
 
 ## User Guide
 1. Bookmark [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) because that's where everything starts.
