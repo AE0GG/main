@@ -1,8 +1,8 @@
 # PuNk Radio
-## Public-use Nick-knowledge
-A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. Thank you for your support!
+#### Overview
+A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. For more information, [README](https://github.com/AE0GG/main/blob/main/README.md). Thank you for your support!
 
-Need help learning something? Check out our [Educator Database](https://github.com/AE0GG/main/blob/main/Educator%20Database.md)!
+Need help learning something? Check out our [Educator Database](https://github.com/AE0GG/main/blob/main/Educator%20Database.md)! **
 
 > [!NOTE]
 > This resource will receive more Amateur Radio information soon. It is heavily focused on [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md) at the moment. Thank you for you patience!
@@ -43,9 +43,6 @@ Need help learning something? Check out our [Educator Database](https://github.c
 - [ ] Add Info: POTA/SOTA/IOTA
 - [ ] Add Info: Radio Tools
 - [ ] Create/link dry-erase printout for NWS Skywarn
-
-## Supporting Files
-- [README.md](https://github.com/AE0GG/main/blob/main/README.md)
 
 ----------
 
