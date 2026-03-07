@@ -1,12 +1,10 @@
-# README
-## Hey, wait a minute! ...what happened to this page!?
+# The PuNk Radio Project
+## Public-use Nick-knowledge
+A collection of licensed and unlicensed radio links and information. This resource was created to help others find commonly requested information. It does not intend to recreate anything already available. Most of the information found in this resource are useful and/or popular links to help you learn more about a topic. Pages attempt to include links to official resources, wikipedias, and communities. Hot topics will be listed early on a page for quick reference. Thank you for your support!
 
-**First...**<br>
-Please bookmark the [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page for where to start for the forseeable future.<br>
+# [▶️PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md)
 
-Eventually, this page will become what it should have only been... a user guide providing information on what the project does, how to use it, and how to contribute. For now, I am using it to redirect users that had early access. I have been hard at work breaking topics into their own pages, organizing the information, making it easy to navigate, and trying to make it all look good.
-
-----------
+<br>
 
 ## The Project
 *...to be continued.*
