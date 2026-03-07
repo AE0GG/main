@@ -19,7 +19,7 @@ A collection of licensed and unlicensed radio links and information. This resour
 * Information on related topics (*)
 * Link back to PuNk Radio
 * Link for feedback<br>
-(*)*if applicable*
+(*) *if applicable*
 
 ## How to Contribute
 At the botton of every page, I have included a link for suggestions and feedback. Eventually, I would like to set up private groups that can push edits as needed. Thank you for helping!
