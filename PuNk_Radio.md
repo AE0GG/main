@@ -31,7 +31,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟩 Move Data To Individual Pages<br>
 🟥 Add Info: ARRL Examinations<br>
 🟨 Add Info: AREDN<br>
-🟥 Add Info: ARES<br>
+🟨 Add Info: ARES<br>
 🟥 Add Info: APRS<br>
 🟥 Add Info: ACS<br>
 🟥 Add Info: CW<br>
