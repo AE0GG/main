@@ -44,7 +44,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟨 Add Info: Reticulum<br>
 🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
-
+**KEY**: 🟩>75% 🟨>25% 🟥≤25%
 ----------
 
 Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
