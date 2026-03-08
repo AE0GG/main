@@ -11,7 +11,7 @@ Google AI Overview
 
 ## Training Courses
 > [!IMPORTANT]
-> Due to lack of federal funding, the site is currently offline.
+> Due to a lapse in federal funding, the site is currently offline.
 
 - [ICS-100 Introduction to the Incident Command System](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c)
 - [ICS-200 Basic Incident Command System for Initial Response](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c)
