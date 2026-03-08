@@ -24,8 +24,8 @@
 Need help learning something or getting started? Reach out to a [volunteer facilitator](https://github.com/AE0GG/main/blob/main/Volunteer%20Facilitators.md).
 
 ## Backlog
-- 🟩 Transfer information from Google Doc<br>
-- 🟩 Publish/share this page<br>
+🟩 Transfer information from Google Doc<br>
+🟩 Publish/share this page<br>
 🟩 Rework: Improve Mobile Experience<br>
 🟩 Build Topic Pages<br>
 🟩 Move Data To Individual Pages<br>
