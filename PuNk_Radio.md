@@ -38,10 +38,11 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟥 Add Info: GMRS<br>
 🟩 Add Info: MeshCore<br>
 🟩 Add Info: Meshtastic<br>
-🟥 Add Info: My User Database<br>
 🟥 Add Info: NWS Skywarn<br>
 🟥 Add Info: POTA/SOTA/IOTA<br>
 🟥 Add Info: Radio Tools<br>
+🟥 Add Info: Reticulum<br>
+🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
 
 ----------
