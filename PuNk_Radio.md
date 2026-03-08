@@ -26,7 +26,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 ## Backlog
 🟩 Transfer information from Google Doc<br>
 🟩 Publish/share this page<br>
-🟩 Rework: Link Functionally to Improve Mobile Experience<br>
+🟩 Rework: Improve Mobile Experience<br>
 🟩 Build Topic Pages<br>
 🟩 Move Data To Individual Pages<br>
 🟥 Add Info: ARRL Examinations<br>
@@ -42,7 +42,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟥 Add Info: NWS Skywarn<br>
 🟥 Add Info: POTA/SOTA/IOTA<br>
 🟥 Add Info: Radio Tools<br>
-🟥 Create/link dry-erase printout for NWS Skywarn<br>
+🟥 Link NWS Skywarn Spotter Sheet<br>
 
 ----------
 
