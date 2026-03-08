@@ -24,25 +24,25 @@
 Need help learning something or getting started? Reach out to a [volunteer facilitator](https://github.com/AE0GG/main/blob/main/Volunteer%20Facilitators.md).
 
 ## Backlog
-- [x] Transfer information from Google Doc
-- [x] Publish/share this page
-- [x] Rework: Link Functionally to Improve Mobile Experience
-- [x] Build Topic Pages
-- [x] Move Data To Individual Pages
-- [ ] Add Info: ARRL Examinations
-- [ ] Add Info: AREDN
-- [ ] Add Info: ARES
-- [ ] Add Info: APRS
-- [ ] Add Info: ACS
-- [ ] Add Info: CW
-- [ ] Add Info: GMRS
-- [ ] Add Info: MeshCore
-- [ ] Add Info: Meshtastic
-- [ ] Add Info: My User Database
-- [ ] Add Info: NWS Skywarn
-- [ ] Add Info: POTA/SOTA/IOTA
-- [ ] Add Info: Radio Tools
-- [ ] Create/link dry-erase printout for NWS Skywarn
+🟩 Transfer information from Google Doc<br>
+🟩 Publish/share this page<br>
+🟩 Rework: Link Functionally to Improve Mobile Experience<br>
+🟩 Build Topic Pages<br>
+🟩 Move Data To Individual Pages<br>
+🟥 Add Info: ARRL Examinations<br>
+🟥 Add Info: AREDN<br>
+🟥 Add Info: ARES<br>
+🟥 Add Info: APRS<br>
+🟥 Add Info: ACS<br>
+🟥 Add Info: CW<br>
+🟥 Add Info: GMRS<br>
+🟩 Add Info: MeshCore<br>
+🟩 Add Info: Meshtastic<br>
+🟥 Add Info: My User Database<br>
+🟥 Add Info: NWS Skywarn<br>
+🟥 Add Info: POTA/SOTA/IOTA<br>
+🟥 Add Info: Radio Tools<br>
+🟥 Create/link dry-erase printout for NWS Skywarn<br>
 
 ----------
 
