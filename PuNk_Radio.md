@@ -30,18 +30,18 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟩 Build Topic Pages<br>
 🟩 Move Data To Individual Pages<br>
 🟥 Add Info: ARRL Examinations<br>
-🟥 Add Info: AREDN<br>
+🟨 Add Info: AREDN<br>
 🟥 Add Info: ARES<br>
 🟥 Add Info: APRS<br>
 🟥 Add Info: ACS<br>
 🟥 Add Info: CW<br>
-🟥 Add Info: GMRS<br>
+🟨 Add Info: GMRS<br>
 🟩 Add Info: MeshCore<br>
 🟩 Add Info: Meshtastic<br>
 🟥 Add Info: NWS Skywarn<br>
 🟥 Add Info: POTA/SOTA/IOTA<br>
 🟥 Add Info: Radio Tools<br>
-🟥 Add Info: Reticulum<br>
+🟨 Add Info: Reticulum<br>
 🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
 
