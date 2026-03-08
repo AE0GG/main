@@ -9,6 +9,13 @@ Official [Website](https://www.arednmesh.org/)
 
 ## Table of Contents
 - [AREDN World Map](https://worldmap.arednmesh.org/#3.39/40.07/-89.570)
+- [Chattanooga ARC AREDN Service Request](https://www.w4am.net/aredn-service-request/)
+- [Hamilton County ACS/ARES AREDN Resource](https://ka4ema.net/projects-aredn-mesh-network-off-grid-communications/)
+- [GitHub](https://github.com/aredn/aredn)
+- [Reddit](https://www.reddit.com/r/aredn/)
+- [Facebook Group](https://www.facebook.com/groups/aredn/)
+- [Groups.io](https://groups.io/g/AREDN/wiki)
+- [What is AREDN? YouTube Video by Ham Radio Crash Course](https://www.youtube.com/live/4ezz-riTpXE?si=YWSswgdgcEfLhycq)
 
 ----------
 
