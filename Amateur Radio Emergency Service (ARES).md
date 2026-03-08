@@ -9,6 +9,16 @@ Google AI Overview
 - [Google](https://www.google.com/) *This is just an example/placeholder*
 - [Wikipedia](https://en.wikipedia.org/wiki/Amateur_radio_emergency_communications)
 
+## Training Courses
+> [!IMPORTANT]
+> Due to lack of federal funding, the site is currently offline.
+
+- [ICS-100 Introduction to the Incident Command System](https://training.fema.gov/is/courseoverview.aspx?code=IS-100.c)
+- [ICS-200 Basic Incident Command System for Initial Response](https://training.fema.gov/is/courseoverview.aspx?code=IS-200.c)
+- [IS-700 NIMS, an Introduction](https://training.fema.gov/is/courseoverview.aspx?code=IS-700.b)
+- [IS-800 National Response Framework (NRF), an Introduction](https://training.fema.gov/is/courseoverview.aspx?code=IS-800.c)
+- EC-001
+
 ----------
 
 Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
