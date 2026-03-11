@@ -3,7 +3,7 @@
 ###### For more information, [README](https://github.com/AE0GG/main/blob/main/README.md).
 
 > [!NOTE]
-> This resource will receive more Amateur Radio information soon. It is heavily focused on [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md) at the moment. Thank you for you patience!
+> This resource will receive more Amateur Radio information soon. It is heavily focused on [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md) at the moment. Thank you for you patience!<br>
 > Additionally, as of 10MAR26, I am pausing content to clone everything into a website. If others like it better, I will switch over, then continue.
 
 ## Table of Contents
