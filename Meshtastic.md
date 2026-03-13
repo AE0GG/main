@@ -4,7 +4,7 @@ Google's AI Overview
 
 Official [Website](https://meshtastic.org/) & [Discord](https://discord.gg/pVsRh9FEme)
 
-⭐ [Recommended Device Configuration](https://github.com/MtnMesh/mtnmesh.github.io/blob/main/docs/config_new.md)
+⭐ [Recommended Device Configuration](https://mtnme.sh/config/)
 
 ## Table of Contents
 - [Maps](#maps)
